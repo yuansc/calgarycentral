@@ -4826,16 +4826,16 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="144">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="142">
           <active>false</active>
@@ -4859,19 +4859,19 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="132">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -4907,7 +4907,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="72">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="66">
           <active>false</active>
@@ -4925,7 +4925,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="54">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="55">
           <active>false</active>
@@ -4934,7 +4934,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="135">
           <active>false</active>
@@ -4946,7 +4946,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
@@ -4955,16 +4955,16 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="117">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="113">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="114">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="106">
           <active>false</active>
@@ -4973,13 +4973,13 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="77">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="75">
           <active>false</active>
@@ -4991,16 +4991,16 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="68">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="39">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="40">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -5027,7 +5027,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120106">
           <active>false</active>
@@ -5063,7 +5063,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -5078,7 +5078,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="121">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="119">
           <active>false</active>
@@ -5093,7 +5093,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="101">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -5102,22 +5102,22 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="88">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="87">
           <active>true</active>
         </combination-switchReference>
-        <combination-switchReference id="85">
+        <combination-switchReference id="87">
           <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="85">
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
           <active>false</active>
@@ -5156,7 +5156,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="140">
           <active>true</active>
@@ -5165,19 +5165,19 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="129">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="108">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="103">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -5210,7 +5210,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -5237,7 +5237,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120150">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
@@ -6731,8 +6731,8 @@ pitch = 8&apos;</description>
       <zoom>1.0</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.016666668</value>
-      <size>30</size>
+      <value>0.005</value>
+      <size>100</size>
       <storage>CalgaryCentralSDAChurchBaldwinD431.memory</storage>
     </memory.memory>
     <stop id="124">
@@ -6929,7 +6929,7 @@ pitch = 8&apos;
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.041666668</value>
+      <value>0.05</value>
     </regulator>
     <combination id="408">
       <name>GT_3</name>
@@ -7888,6 +7888,12 @@ name = 8  </description>
         <combination-switchReference id="445">
           <active>false</active>
         </combination-switchReference>
+        <combination-switchReference id="120203">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="158">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 67, equal 0</switch-activate>
@@ -8592,7 +8598,7 @@ name = 9 </description>
       </messages>
       <style>blankswitch-right-lcd</style>
       <zoom>0.65</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
       <delta>1</delta>
     </incrementer>
@@ -9009,6 +9015,11 @@ name = SWELL  TO  GREAT  4&apos;</description>
         <reference id="88426"/>
         <reference id="120057"/>
         <reference id="120058"/>
+        <reference id="120188"/>
+        <reference id="120185"/>
+        <reference id="120160"/>
+        <reference id="120152"/>
+        <reference id="120161"/>
       </references>
       <messages>
         <switch-activate>equal 202, equal 66, equal 0</switch-activate>
@@ -12852,7 +12863,7 @@ name = 8  </description>
       </messages>
       <style>blankswitch-left-lcd</style>
       <zoom>0.65</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
       <delta>-1</delta>
     </incrementer>
@@ -19238,7 +19249,7 @@ model = ACO 4P/104 7.0 </description>
         <switchFilter-engaged>set 176, set 1, set 0</switchFilter-engaged>
       </messages>
       <zoom>1.0</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>318</duration>
     </switchFilter>
     <switchFilter id="88449">
@@ -19250,7 +19261,7 @@ model = ACO 4P/104 7.0 </description>
       </messages>
       <style>warningNameless</style>
       <zoom>0.4999999</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>70</duration>
     </switchFilter>
     <synchronizer id="88450">
@@ -22020,7 +22031,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -22083,7 +22094,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
@@ -22098,7 +22109,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -22493,7 +22504,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -22517,7 +22528,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="87">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120078">
           <active>false</active>
@@ -22544,7 +22555,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120077">
           <active>false</active>
@@ -22565,7 +22576,7 @@ name = 6</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="161">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="156">
           <active>false</active>
@@ -22595,7 +22606,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -22607,7 +22618,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
@@ -22619,7 +22630,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="43">
           <active>false</active>
@@ -23371,10 +23382,6 @@ name = .RIGHT
           <x>221</x>
           <y>859</y>
         </console-locationReference>
-        <console-locationReference id="659">
-          <x>452</x>
-          <y>165</y>
-        </console-locationReference>
         <console-locationReference id="411">
           <x>199</x>
           <y>704</y>
@@ -23848,16 +23855,20 @@ name = .RIGHT
           <y>430</y>
         </console-locationReference>
         <console-locationReference id="120052">
-          <x>67</x>
-          <y>331</y>
+          <x>60</x>
+          <y>330</y>
         </console-locationReference>
         <console-locationReference id="400">
           <x>1123</x>
           <y>11</y>
         </console-locationReference>
         <console-locationReference id="120216">
-          <x>0</x>
+          <x>720</x>
           <y>0</y>
+        </console-locationReference>
+        <console-locationReference id="659">
+          <x>450</x>
+          <y>160</y>
         </console-locationReference>
       </references>
       <messages/>
@@ -23996,7 +24007,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.0</value>
+      <value>1.0</value>
     </continuousFilter>
     <synchronizing id="120217">
       <name>GT EXPRESSION W. CHOIR</name>
@@ -24010,5 +24021,230 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <active>false</active>
       <duration>-1</duration>
     </synchronizing>
+    <group id="681">
+      <name>STATE TRUMPET ALTERABLES</name>
+      <description></description>
+      <references>
+        <reference id="120218"/>
+        <reference id="393"/>
+        <reference id="394"/>
+        <reference id="168"/>
+        <reference id="508"/>
+        <reference id="506"/>
+        <reference id="507"/>
+        <reference id="462"/>
+        <reference id="339"/>
+        <reference id="347"/>
+        <reference id="491"/>
+        <reference id="476"/>
+        <reference id="120219"/>
+      </references>
+      <messages/>
+    </group>
+    <incrementer id="394">
+      <name>STATE TRUMPET ALTERABLE INCREMENTER [ - ]</name>
+      <description>IMPERIAL TRUMPET ALTERABLE DOWN
+
+name = Y</description>
+      <references>
+        <reference id="168"/>
+      </references>
+      <messages/>
+      <style>blankswitch-left-lcd</style>
+      <zoom>0.7</zoom>
+      <active>false</active>
+      <duration>0</duration>
+      <delta>-1</delta>
+    </incrementer>
+    <switchFilter id="462">
+      <name>DIVINE TRUMPET</name>
+      <description>IMPERIAL TRUMPET ALTERABLE
+
+Based in part on the Divine Trumpet in Jeux 1.4</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 2, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <regulator id="168">
+      <name>STATE TRUMPET SELECT</name>
+      <description></description>
+      <references>
+        <reference id="491"/>
+        <reference id="476"/>
+        <reference id="339"/>
+        <reference id="506"/>
+        <reference id="508"/>
+        <reference id="462"/>
+        <reference id="347"/>
+        <reference id="507"/>
+      </references>
+      <messages/>
+      <style>memory</style>
+      <zoom>1.15</zoom>
+      <duration>-1</duration>
+      <threshold>0.0</threshold>
+      <value>0.0</value>
+    </regulator>
+    <switchFilter id="339">
+      <name>ENGLISH TUBA</name>
+      <description>IMPERIAL TRUMPET ALTERABLE
+
+The English Tuba is named in  honor of Bruce Miles, creator of &quot;English Organ,&quot; and writer of jOrgan notes. A pioneer in the field of amateur virtual organs.
+It is also based in part on the Tuba from English Organ.</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 5, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <switchFilter id="491">
+      <name>STATE TRUMPET</name>
+      <description>IMPERIAL TRUMPET ALTERABLE
+
+Based in part on State Trumpet in recent recordings on the Aeolian-Skinner organ in the Cathedral of St. John the Divine, New York City and in part on State Trumpet in Virgil Fox recordings on the Aeolian-Skinner organ in Riverside Church, New York City</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 4, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>true</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <incrementer id="393">
+      <name>STATE TRUMPET ALTERABLE INCREMENTER [ + ]</name>
+      <description>IMPERIAL TRUMPET ALTERABLE UP
+
+name = Z</description>
+      <references/>
+      <messages/>
+      <style>blankswitch-right-lcd</style>
+      <zoom>0.7</zoom>
+      <active>false</active>
+      <duration>0</duration>
+      <delta>1</delta>
+    </incrementer>
+    <switchFilter id="508">
+      <name>BOMB. 16,8,4, MIX</name>
+      <description>IMPERIAL TRUMPET ALTERABLE</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 9, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <switchFilter id="506">
+      <name>BOMBARDE 8</name>
+      <description>IMPERIAL TRUMPET ALTERABLE</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 7, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <switchFilter id="476">
+      <name>TROMPETA REÁL</name>
+      <description>IMPERIAL TRUMPET ALTERABLE
+
+Based on Trompeta Real on the Schlicker organ at Mt. Olive Lutheran Church, St. Paul, Minnesota.</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 10, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <switchFilter id="347">
+      <name>SPANISH TRUMPET</name>
+      <description>IMPERIAL TRUMPET ALTERABLE
+
+Based on the horizontal trumpet on the Emperor&apos;s Organ in the Cathedral of Toledo. Taken from &quot;The Organ&quot; by E. Power Biggs.</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 3, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <switchFilter id="507">
+      <name>BOMBARDES 8 &amp; 4</name>
+      <description>IMPERIAL TRUMPET ALTERABLE</description>
+      <references/>
+      <messages>
+        <switchFilter-intercept>equal 192, get program, </switchFilter-intercept>
+        <switchFilter-engaged>set 192, set program 40 | add 8, </switchFilter-engaged>
+        <switchFilter-disengaged>set 192, set program 0, </switchFilter-disengaged>
+      </messages>
+      <style>coupler</style>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </switchFilter>
+    <continuousFilter id="120218">
+      <name>ST. TRUMPET  VOLUME</name>
+      <description>IMPERIAL TRUMPET VOLUME
+name = ST. TRUMP.
+function =  VOLUME</description>
+      <references/>
+      <messages>
+        <continuousFilter-engaging>set 176, set 7, set value | div 1.01 | add 0.01 | mult volume 127</continuousFilter-engaging>
+      </messages>
+      <style>voicinglcd</style>
+      <zoom>0.75</zoom>
+      <duration>-1</duration>
+      <threshold>0.0</threshold>
+      <value>0.0</value>
+    </continuousFilter>
+    <rank id="120219">
+      <name>CH.XX.Imperial Trumpet 16,8,4</name>
+      <description></description>
+      <references>
+        <reference id="476"/>
+      </references>
+      <messages>
+        <rank-engaged>set 176, set 121, </rank-engaged>
+        <rank-engaged>set 176, set 0, set 0</rank-engaged>
+        <rank-engaged>set 192, set 40, </rank-engaged>
+        <rank-disengaged>set 176, set 123, </rank-disengaged>
+        <rank-notePlayed>set 144, set pitch, set 100</rank-notePlayed>
+        <rank-noteMuted>set 144, set pitch, set 0</rank-noteMuted>
+        <rank-noteMuted>set 128, set pitch, set 0</rank-noteMuted>
+      </messages>
+      <zoom>1.0</zoom>
+      <channel>notEqual 9</channel>
+      <delay>10</delay>
+    </rank>
   </elements>
 </organ>

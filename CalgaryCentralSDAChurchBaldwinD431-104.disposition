@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<organ version="3.20">
+<organ version="3.21.1 (64-bit)">
   <elements>
     <switchFilter id="12">
       <name>REGAL 8</name>
@@ -980,7 +980,9 @@ name = GREAT  TO  PEDAL  8&apos;</description>
         <reference id="94"/>
         <reference id="143"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 24, equal 0</switch-activate>
+      </messages>
       <style>coupler-tablet-red</style>
       <zoom>0.8</zoom>
       <active>false</active>
@@ -2020,7 +2022,9 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 97, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -2055,10 +2059,13 @@ pitch = 4&apos;</description>
       <references>
         <reference id="226"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 206, equal 40, equal 0</switch-deactivate>
+        <switch-activate>equal 206, equal 32, equal 0</switch-activate>
+      </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -2197,7 +2204,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="59">
           <active>false</active>
@@ -2245,7 +2252,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="65">
           <active>false</active>
@@ -2263,7 +2270,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="68">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="72">
           <active>false</active>
@@ -2275,7 +2282,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="74">
           <active>false</active>
@@ -2284,7 +2291,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="75">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="76">
           <active>false</active>
@@ -2293,13 +2300,13 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="80">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="81">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
           <active>false</active>
@@ -2308,7 +2315,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="84">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="155">
           <active>false</active>
@@ -2317,13 +2324,13 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="88">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="78">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
           <active>false</active>
@@ -2344,10 +2351,10 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="98">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="99">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -2356,22 +2363,22 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="101">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="103">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="106">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="105">
           <active>false</active>
@@ -2386,7 +2393,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="110">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -2401,25 +2408,25 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="116">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="115">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="117">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="119">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="121">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="124">
           <active>false</active>
@@ -2455,10 +2462,10 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="135">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="136">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="140">
           <active>false</active>
@@ -2491,10 +2498,10 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="145">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="146">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="79">
           <active>false</active>
@@ -2524,7 +2531,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="156">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="161">
           <active>false</active>
@@ -2799,7 +2806,7 @@ pitch = 8&apos;</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -3048,7 +3055,9 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 104, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -3128,7 +3137,9 @@ name = SWELL  TO  GREAT  8&apos;</description>
         <reference id="162"/>
         <reference id="164"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 26, equal 0</switch-activate>
+      </messages>
       <style>coupler-tablet-red</style>
       <zoom>0.8</zoom>
       <active>false</active>
@@ -3239,7 +3250,9 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 99, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -3959,7 +3972,7 @@ pitch = 8&apos;</description>
       </messages>
       <style>coupler</style>
       <zoom>1.0</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>-1</duration>
     </switchFilter>
     <switchFilter id="278">
@@ -4178,7 +4191,9 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 107, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -4244,7 +4259,9 @@ name = CHOIR  TO  PEDAL  8&apos;</description>
         <reference id="69"/>
         <reference id="165"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 27, equal 0</switch-activate>
+      </messages>
       <style>coupler-tablet-red</style>
       <zoom>0.8</zoom>
       <active>false</active>
@@ -5451,7 +5468,10 @@ pitch =  2&apos;</description>
       <references>
         <reference id="27"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 206, equal 24, equal 0</switch-deactivate>
+        <switch-activate>equal 206, equal 16, equal 0</switch-activate>
+      </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -5498,7 +5518,7 @@ pitch = 8&apos;</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -5795,7 +5815,7 @@ name = SWELL  (Expressive)</description>
       <zoom>0.85</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>1.0</value>
+      <value>0.15254237</value>
     </continuousFilter>
     <combination id="343">
       <name>CH_4</name>
@@ -5932,16 +5952,16 @@ name = 4</description>
       </references>
       <messages/>
       <soundfont>ACO_7.0.sf2</soundfont>
-      <channels>96</channels>
-      <polyphony>1024</polyphony>
+      <channels>256</channels>
+      <polyphony>2048</polyphony>
       <sampleRate>44100</sampleRate>
       <interpolate>ORDER_4TH</interpolate>
       <audioDriver>portaudio</audioDriver>
       <audioDevice>ASIO4ALL v2</audioDevice>
-      <audioBuffers>12</audioBuffers>
-      <audioBufferSize>512</audioBufferSize>
-      <cores>8</cores>
-      <gain>0.2</gain>
+      <audioBuffers>16</audioBuffers>
+      <audioBufferSize>2048</audioBufferSize>
+      <cores>10</cores>
+      <gain>0.15</gain>
       <overflowPercussion>0.1</overflowPercussion>
       <overflowSustained>0.1</overflowSustained>
       <overflowReleased>0.5</overflowReleased>
@@ -6446,7 +6466,7 @@ pitch = 8&apos;
       <zoom>0.8</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.64285713</value>
+      <value>0.35714287</value>
     </regulator>
     <stop id="146">
       <name>gt.quint:2_2/3</name>
@@ -6460,7 +6480,7 @@ pitch = 2 2/3&apos;</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -6626,7 +6646,9 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 105, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -6738,7 +6760,9 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 95, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -6787,7 +6811,7 @@ pitch = 16&apos;</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -6851,7 +6875,6 @@ pitch = 8&apos;</description>
         <reference id="268"/>
         <reference id="402"/>
         <reference id="403"/>
-        <reference id="404"/>
         <reference id="405"/>
         <reference id="406"/>
         <reference id="379"/>
@@ -6875,7 +6898,6 @@ pitch = 8&apos;</description>
         <reference id="198"/>
         <reference id="35"/>
         <reference id="413"/>
-        <reference id="414"/>
         <reference id="423"/>
         <reference id="599"/>
         <reference id="600"/>
@@ -7126,8 +7148,6 @@ pitch = 8&apos;
         <reference id="198"/>
         <reference id="35"/>
         <reference id="413"/>
-        <reference id="414"/>
-        <reference id="404"/>
         <reference id="553"/>
       </references>
       <messages/>
@@ -7135,7 +7155,7 @@ pitch = 8&apos;
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.45833334</value>
+      <value>0.15</value>
     </regulator>
     <combination id="408">
       <name>GT_3</name>
@@ -7231,7 +7251,9 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 106, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -7366,7 +7388,10 @@ pitch = IV</description>
       <references>
         <reference id="420"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 206, equal 8, equal 0</switch-deactivate>
+        <switch-activate>equal 206, equal 0, equal 0</switch-activate>
+      </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -7507,7 +7532,9 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 87, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -8166,7 +8193,7 @@ pitch = 8&apos;</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -8458,7 +8485,9 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 98, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -8668,7 +8697,9 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 85, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -8868,7 +8899,9 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 92, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -9018,466 +9051,6 @@ name = GREAT  UNlSON  OFF</description>
       <active>false</active>
       <duration>-1</duration>
     </switchFilter>
-    <combination id="414">
-      <name>9  GEN_9</name>
-      <description>GENERAL COMBINATION
-
-name = 9</description>
-      <references>
-        <combination-switchReference id="660">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="656">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="658">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="657">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="652">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="620">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="617">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="618">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="651">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="36">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="37">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="38">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="39">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="40">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="41">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="42">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="43">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="44">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="45">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="46">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="47">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="48">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="49">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="50">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="51">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="52">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="53">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="54">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="55">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="56">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="57">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="58">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="59">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="60">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="62">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="63">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="64">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="65">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="66">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="67">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="68">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="69">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="70">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="71">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="72">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="73">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="74">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="75">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="76">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="77">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="78">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="79">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="80">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="81">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="82">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="83">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="84">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="85">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="86">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="87">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="88">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="89">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="90">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="91">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="92">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="93">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="94">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="95">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="96">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="97">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="98">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="99">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="100">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="101">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="102">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="103">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="104">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="105">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="106">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="107">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="108">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="109">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="110">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="111">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="112">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="113">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="114">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="115">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="116">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="117">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="118">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="119">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="120">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="121">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="122">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="123">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="124">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="125">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="126">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="127">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="128">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="129">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="130">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="131">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="132">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="133">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="134">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="135">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="136">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="137">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="138">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="139">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="140">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="141">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="142">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="143">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="144">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="145">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="146">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="147">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="148">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="149">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="150">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="151">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="152">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="153">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="154">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="155">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="156">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="157">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="158">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="159">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="160">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="161">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="28">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="14">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="162">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="163">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="164">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="165">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-continuousReference id="166">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="167">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="168">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="169">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="170">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="171">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="172">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="173">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-switchReference id="33">
-          <active>false</active>
-        </combination-switchReference>
-      </references>
-      <messages/>
-      <style>piston</style>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>200</duration>
-    </combination>
     <coupler id="51">
       <name>gt.sw-to-gt:4</name>
       <description>GREAT COUPLER
@@ -9554,9 +9127,7 @@ name = SWELL  TO  GREAT  4&apos;</description>
         <reference id="412"/>
         <reference id="198"/>
         <reference id="35"/>
-        <reference id="404"/>
         <reference id="413"/>
-        <reference id="414"/>
         <reference id="423"/>
         <reference id="397"/>
         <reference id="554"/>
@@ -9761,7 +9332,10 @@ pitch =  8&apos;
       <references>
         <reference id="446"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 206, equal 56, equal 0</switch-deactivate>
+        <switch-activate>equal 206, equal 48, equal 0</switch-activate>
+      </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -9791,11 +9365,11 @@ pitch =  8&apos;
         <reference id="193"/>
       </references>
       <messages>
-        <keyboard-pressKey>equal 155, lessEqual 96 | greaterEqual 35 | get pitch, greater 0 | get velocity</keyboard-pressKey>
-        <keyboard-releaseKey>equal 155, lessEqual 96 | greaterEqual 35 | get pitch, equal 0</keyboard-releaseKey>
-        <keyboard-releaseKey>equal 139, lessEqual 96 | greaterEqual 35 | get pitch, </keyboard-releaseKey>
+        <keyboard-pressKey>equal 155, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
+        <keyboard-releaseKey>equal 155, lessEqual 96 | greaterEqual 36 | get pitch, equal 0</keyboard-releaseKey>
+        <keyboard-releaseKey>equal 139, lessEqual 96 | greaterEqual 36 | get pitch, </keyboard-releaseKey>
       </messages>
-      <input>2- mioXC MIDI IN</input>
+      <input>mioXC</input>
     </keyboard>
     <activator id="296">
       <name>+5</name>
@@ -10121,7 +9695,9 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 96, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -10476,11 +10052,11 @@ pitch = 16&apos;</description>
         <reference id="193"/>
       </references>
       <messages>
-        <keyboard-pressKey>equal 159, lessEqual 96 | greaterEqual 35 | get pitch, greater 0 | get velocity</keyboard-pressKey>
-        <keyboard-releaseKey>equal 159, lessEqual 96 | greaterEqual 35 | get pitch, equal 0</keyboard-releaseKey>
-        <keyboard-releaseKey>equal 143, lessEqual 96 | greaterEqual 35 | get pitch, </keyboard-releaseKey>
+        <keyboard-pressKey>equal 159, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
+        <keyboard-releaseKey>equal 159, lessEqual 96 | greaterEqual 36 | get pitch, equal 0</keyboard-releaseKey>
+        <keyboard-releaseKey>equal 143, lessEqual 96 | greaterEqual 36 | get pitch, </keyboard-releaseKey>
       </messages>
-      <input>2- mioXC MIDI IN</input>
+      <input>mioXC</input>
     </keyboard>
     <switchFilter id="282">
       <name>DIAPASONS 8 &amp; 4</name>
@@ -11772,865 +11348,857 @@ name = *Main Console
 </description>
       <references>
         <console-locationReference id="552">
-          <x>925</x>
-          <y>804</y>
+          <x>596</x>
+          <y>682</y>
         </console-locationReference>
         <console-locationReference id="33">
-          <x>1255</x>
-          <y>748</y>
+          <x>583</x>
+          <y>1490</y>
         </console-locationReference>
         <console-locationReference id="66">
-          <x>419</x>
-          <y>836</y>
+          <x>79</x>
+          <y>718</y>
         </console-locationReference>
         <console-locationReference id="96">
-          <x>342</x>
-          <y>792</y>
+          <x>2</x>
+          <y>674</y>
         </console-locationReference>
         <console-locationReference id="113">
           <x>0</x>
-          <y>704</y>
+          <y>1459</y>
         </console-locationReference>
         <console-locationReference id="374">
-          <x>672</x>
-          <y>199</y>
+          <x>332</x>
+          <y>81</y>
         </console-locationReference>
         <console-locationReference id="170">
-          <x>1135</x>
-          <y>950</y>
+          <x>697</x>
+          <y>1494</y>
         </console-locationReference>
         <console-locationReference id="169">
-          <x>925</x>
-          <y>45</y>
+          <x>701</x>
+          <y>995</y>
         </console-locationReference>
         <console-locationReference id="659">
-          <x>420</x>
-          <y>139</y>
+          <x>11</x>
+          <y>22</y>
         </console-locationReference>
         <console-locationReference id="271">
-          <x>539</x>
-          <y>947</y>
+          <x>131</x>
+          <y>821</y>
         </console-locationReference>
         <console-locationReference id="345">
-          <x>220</x>
-          <y>859</y>
+          <x>192</x>
+          <y>1563</y>
         </console-locationReference>
         <console-locationReference id="410">
-          <x>176</x>
-          <y>859</y>
+          <x>148</x>
+          <y>1563</y>
         </console-locationReference>
         <console-locationReference id="363">
-          <x>132</x>
-          <y>859</y>
+          <x>104</x>
+          <y>1563</y>
         </console-locationReference>
         <console-locationReference id="372">
-          <x>88</x>
-          <y>859</y>
+          <x>60</x>
+          <y>1563</y>
         </console-locationReference>
         <console-locationReference id="402">
-          <x>44</x>
-          <y>859</y>
+          <x>16</x>
+          <y>1563</y>
         </console-locationReference>
         <console-locationReference id="411">
-          <x>892</x>
-          <y>859</y>
+          <x>521</x>
+          <y>731</y>
         </console-locationReference>
         <console-locationReference id="183">
-          <x>848</x>
-          <y>859</y>
+          <x>481</x>
+          <y>731</y>
         </console-locationReference>
         <console-locationReference id="408">
-          <x>804</x>
-          <y>859</y>
+          <x>441</x>
+          <y>731</y>
         </console-locationReference>
         <console-locationReference id="379">
-          <x>760</x>
-          <y>859</y>
+          <x>401</x>
+          <y>731</y>
         </console-locationReference>
         <console-locationReference id="268">
-          <x>716</x>
-          <y>859</y>
+          <x>361</x>
+          <y>731</y>
         </console-locationReference>
         <console-locationReference id="303">
-          <x>1266</x>
-          <y>859</y>
+          <x>521</x>
+          <y>1591</y>
         </console-locationReference>
         <console-locationReference id="343">
-          <x>1222</x>
-          <y>859</y>
+          <x>481</x>
+          <y>1591</y>
         </console-locationReference>
         <console-locationReference id="407">
-          <x>1177</x>
-          <y>859</y>
+          <x>441</x>
+          <y>1590</y>
         </console-locationReference>
         <console-locationReference id="405">
-          <x>1133</x>
-          <y>859</y>
+          <x>401</x>
+          <y>1591</y>
         </console-locationReference>
         <console-locationReference id="401">
-          <x>1090</x>
-          <y>859</y>
+          <x>361</x>
+          <y>1591</y>
         </console-locationReference>
         <console-locationReference id="477">
-          <x>1012</x>
-          <y>441</y>
+          <x>683</x>
+          <y>319</y>
         </console-locationReference>
         <console-locationReference id="245">
-          <x>672</x>
-          <y>496</y>
+          <x>332</x>
+          <y>378</y>
         </console-locationReference>
         <console-locationReference id="167">
-          <x>276</x>
-          <y>78</y>
+          <x>697</x>
+          <y>798</y>
         </console-locationReference>
         <console-locationReference id="166">
-          <x>925</x>
-          <y>78</y>
+          <x>701</x>
+          <y>1028</y>
         </console-locationReference>
         <console-locationReference id="15">
-          <x>420</x>
-          <y>138</y>
+          <x>11</x>
+          <y>21</y>
         </console-locationReference>
         <console-locationReference id="189">
-          <x>121</x>
-          <y>909</y>
+          <x>697</x>
+          <y>1583</y>
         </console-locationReference>
         <console-locationReference id="291">
-          <x>5</x>
-          <y>909</y>
-        </console-locationReference>
-        <console-locationReference id="404">
-          <x>1067</x>
-          <y>958</y>
+          <x>697</x>
+          <y>1533</y>
         </console-locationReference>
         <console-locationReference id="320">
-          <x>1068</x>
-          <y>914</y>
-        </console-locationReference>
-        <console-locationReference id="414">
-          <x>1024</x>
-          <y>958</y>
+          <x>861</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="327">
-          <x>1024</x>
-          <y>914</y>
+          <x>861</x>
+          <y>131</y>
         </console-locationReference>
         <console-locationReference id="413">
-          <x>979</x>
-          <y>958</y>
+          <x>861</x>
+          <y>291</y>
         </console-locationReference>
         <console-locationReference id="409">
-          <x>979</x>
-          <y>914</y>
+          <x>861</x>
+          <y>91</y>
         </console-locationReference>
         <console-locationReference id="35">
-          <x>935</x>
-          <y>958</y>
+          <x>861</x>
+          <y>251</y>
         </console-locationReference>
         <console-locationReference id="406">
-          <x>935</x>
-          <y>914</y>
+          <x>861</x>
+          <y>51</y>
         </console-locationReference>
         <console-locationReference id="198">
-          <x>891</x>
-          <y>958</y>
+          <x>861</x>
+          <y>211</y>
         </console-locationReference>
         <console-locationReference id="240">
-          <x>891</x>
-          <y>914</y>
+          <x>861</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="307">
-          <x>1012</x>
-          <y>143</y>
+          <x>683</x>
+          <y>21</y>
         </console-locationReference>
         <console-locationReference id="287">
-          <x>331</x>
-          <y>133</y>
+          <x>330</x>
+          <y>890</y>
         </console-locationReference>
         <console-locationReference id="484">
           <x>331</x>
-          <y>495</y>
+          <y>1201</y>
         </console-locationReference>
         <console-locationReference id="14">
-          <x>572</x>
-          <y>220</y>
+          <x>232</x>
+          <y>102</y>
         </console-locationReference>
         <console-locationReference id="150">
-          <x>1177</x>
-          <y>617</y>
+          <x>505</x>
+          <y>1359</y>
         </console-locationReference>
         <console-locationReference id="73">
-          <x>1024</x>
-          <y>704</y>
+          <x>352</x>
+          <y>1446</y>
         </console-locationReference>
         <console-locationReference id="108">
-          <x>1101</x>
-          <y>661</y>
+          <x>429</x>
+          <y>1403</y>
         </console-locationReference>
         <console-locationReference id="83">
-          <x>1256</x>
-          <y>572</y>
+          <x>584</x>
+          <y>1314</y>
         </console-locationReference>
         <console-locationReference id="445">
-          <x>12</x>
-          <y>958</y>
+          <x>861</x>
+          <y>331</y>
         </console-locationReference>
         <console-locationReference id="336">
-          <x>375</x>
-          <y>1</y>
+          <x>699</x>
+          <y>1237</y>
         </console-locationReference>
         <console-locationReference id="244">
-          <x>364</x>
-          <y>11</y>
+          <x>791</x>
+          <y>1241</y>
         </console-locationReference>
         <console-locationReference id="2">
-          <x>1101</x>
-          <y>138</y>
+          <x>429</x>
+          <y>880</y>
         </console-locationReference>
         <console-locationReference id="463">
-          <x>727</x>
-          <y>958</y>
+          <x>703</x>
+          <y>711</y>
         </console-locationReference>
         <console-locationReference id="486">
-          <x>771</x>
-          <y>958</y>
+          <x>747</x>
+          <y>711</y>
         </console-locationReference>
         <console-locationReference id="195">
-          <x>815</x>
-          <y>958</y>
+          <x>791</x>
+          <y>711</y>
         </console-locationReference>
         <console-locationReference id="188">
-          <x>176</x>
-          <y>909</y>
+          <x>752</x>
+          <y>1583</y>
         </console-locationReference>
         <console-locationReference id="422">
-          <x>122</x>
-          <y>909</y>
+          <x>698</x>
+          <y>1583</y>
         </console-locationReference>
         <console-locationReference id="440">
-          <x>58</x>
-          <y>909</y>
+          <x>750</x>
+          <y>1533</y>
         </console-locationReference>
         <console-locationReference id="487">
-          <x>7</x>
-          <y>909</y>
+          <x>699</x>
+          <y>1533</y>
         </console-locationReference>
         <console-locationReference id="309">
-          <x>1073</x>
-          <y>79</y>
+          <x>849</x>
+          <y>1029</y>
         </console-locationReference>
         <console-locationReference id="392">
-          <x>925</x>
-          <y>78</y>
+          <x>701</x>
+          <y>1028</y>
         </console-locationReference>
         <console-locationReference id="216">
-          <x>430</x>
-          <y>78</y>
+          <x>849</x>
+          <y>797</y>
         </console-locationReference>
         <console-locationReference id="490">
-          <x>298</x>
-          <y>1</y>
+          <x>871</x>
+          <y>1091</y>
         </console-locationReference>
         <console-locationReference id="512">
-          <x>699</x>
-          <y>917</y>
+          <x>701</x>
+          <y>671</y>
         </console-locationReference>
         <console-locationReference id="403">
-          <x>407</x>
-          <y>947</y>
+          <x>11</x>
+          <y>821</y>
         </console-locationReference>
         <console-locationReference id="192">
-          <x>451</x>
-          <y>947</y>
+          <x>51</x>
+          <y>821</y>
         </console-locationReference>
         <console-locationReference id="318">
-          <x>496</x>
-          <y>947</y>
+          <x>91</x>
+          <y>821</y>
         </console-locationReference>
         <console-locationReference id="412">
-          <x>583</x>
-          <y>947</y>
+          <x>171</x>
+          <y>821</y>
         </console-locationReference>
         <console-locationReference id="518">
-          <x>1</x>
-          <y>145</y>
+          <x>699</x>
+          <y>877</y>
         </console-locationReference>
         <console-locationReference id="519">
-          <x>44</x>
-          <y>145</y>
+          <x>859</x>
+          <y>877</y>
         </console-locationReference>
         <console-locationReference id="423">
-          <x>1288</x>
-          <y>958</y>
+          <x>861</x>
+          <y>381</y>
         </console-locationReference>
         <console-locationReference id="599">
-          <x>1101</x>
-          <y>138</y>
+          <x>429</x>
+          <y>880</y>
         </console-locationReference>
         <console-locationReference id="600">
-          <x>833</x>
-          <y>138</y>
+          <x>504</x>
+          <y>16</y>
         </console-locationReference>
         <console-locationReference id="601">
-          <x>420</x>
-          <y>138</y>
+          <x>11</x>
+          <y>21</y>
         </console-locationReference>
         <console-locationReference id="172">
-          <x>277</x>
-          <y>54</y>
+          <x>699</x>
+          <y>767</y>
         </console-locationReference>
         <console-locationReference id="381">
-          <x>178</x>
-          <y>957</y>
+          <x>703</x>
+          <y>445</y>
         </console-locationReference>
         <console-locationReference id="380">
-          <x>178</x>
-          <y>955</y>
+          <x>703</x>
+          <y>443</y>
         </console-locationReference>
         <console-locationReference id="488">
-          <x>303</x>
-          <y>958</y>
+          <x>828</x>
+          <y>446</y>
         </console-locationReference>
         <console-locationReference id="168">
-          <x>925</x>
-          <y>1</y>
+          <x>701</x>
+          <y>951</y>
         </console-locationReference>
         <console-locationReference id="393">
-          <x>1071</x>
-          <y>1</y>
+          <x>847</x>
+          <y>951</y>
         </console-locationReference>
         <console-locationReference id="171">
-          <x>1135</x>
-          <y>919</y>
+          <x>697</x>
+          <y>1463</y>
         </console-locationReference>
         <console-locationReference id="173">
-          <x>1029</x>
-          <y>54</y>
+          <x>805</x>
+          <y>1004</y>
         </console-locationReference>
         <console-locationReference id="394">
-          <x>924</x>
-          <y>1</y>
+          <x>700</x>
+          <y>951</y>
         </console-locationReference>
         <console-locationReference id="120067">
-          <x>565</x>
-          <y>142</y>
+          <x>225</x>
+          <y>24</y>
         </console-locationReference>
         <console-locationReference id="359">
-          <x>275</x>
-          <y>78</y>
+          <x>699</x>
+          <y>797</y>
         </console-locationReference>
         <console-locationReference id="598">
-          <x>134</x>
-          <y>138</y>
+          <x>83</x>
+          <y>885</y>
         </console-locationReference>
         <console-locationReference id="67">
           <x>232</x>
-          <y>748</y>
+          <y>1503</y>
         </console-locationReference>
         <console-locationReference id="77">
           <x>155</x>
-          <y>704</y>
+          <y>1459</y>
         </console-locationReference>
         <console-locationReference id="114">
           <x>78</x>
-          <y>661</y>
+          <y>1416</y>
         </console-locationReference>
         <console-locationReference id="97">
           <x>0</x>
-          <y>617</y>
+          <y>1372</y>
         </console-locationReference>
         <console-locationReference id="128">
-          <x>232</x>
-          <y>661</y>
+          <x>231</x>
+          <y>1411</y>
         </console-locationReference>
         <console-locationReference id="153">
           <x>155</x>
-          <y>617</y>
+          <y>1372</y>
         </console-locationReference>
         <console-locationReference id="92">
           <x>78</x>
-          <y>573</y>
+          <y>1328</y>
         </console-locationReference>
         <console-locationReference id="122">
           <x>0</x>
-          <y>528</y>
+          <y>1283</y>
         </console-locationReference>
         <console-locationReference id="127">
           <x>232</x>
-          <y>572</y>
+          <y>1327</y>
         </console-locationReference>
         <console-locationReference id="139">
           <x>155</x>
-          <y>529</y>
+          <y>1284</y>
         </console-locationReference>
         <console-locationReference id="107">
           <x>78</x>
-          <y>485</y>
+          <y>1240</y>
         </console-locationReference>
         <console-locationReference id="120">
           <x>0</x>
-          <y>441</y>
+          <y>1196</y>
         </console-locationReference>
         <console-locationReference id="126">
           <x>232</x>
-          <y>484</y>
+          <y>1239</y>
         </console-locationReference>
         <console-locationReference id="74">
           <x>155</x>
-          <y>441</y>
+          <y>1196</y>
         </console-locationReference>
         <console-locationReference id="63">
           <x>78</x>
-          <y>397</y>
+          <y>1152</y>
         </console-locationReference>
         <console-locationReference id="68">
           <x>0</x>
-          <y>352</y>
+          <y>1107</y>
         </console-locationReference>
         <console-locationReference id="75">
           <x>231</x>
-          <y>397</y>
+          <y>1152</y>
         </console-locationReference>
         <console-locationReference id="65">
           <x>155</x>
-          <y>353</y>
+          <y>1108</y>
         </console-locationReference>
         <console-locationReference id="117">
           <x>78</x>
-          <y>308</y>
+          <y>1063</y>
         </console-locationReference>
         <console-locationReference id="106">
           <x>0</x>
-          <y>265</y>
+          <y>1020</y>
         </console-locationReference>
         <console-locationReference id="159">
           <x>232</x>
-          <y>309</y>
+          <y>1064</y>
         </console-locationReference>
         <console-locationReference id="64">
           <x>155</x>
-          <y>265</y>
+          <y>1020</y>
         </console-locationReference>
         <console-locationReference id="145">
           <x>78</x>
-          <y>220</y>
+          <y>975</y>
         </console-locationReference>
         <console-locationReference id="135">
           <x>0</x>
-          <y>176</y>
+          <y>931</y>
         </console-locationReference>
         <console-locationReference id="130">
           <x>231</x>
-          <y>221</y>
+          <y>976</y>
         </console-locationReference>
         <console-locationReference id="71">
           <x>155</x>
-          <y>177</y>
+          <y>932</y>
         </console-locationReference>
         <console-locationReference id="163">
           <x>231</x>
-          <y>132</y>
+          <y>887</y>
         </console-locationReference>
         <console-locationReference id="118">
-          <x>342</x>
-          <y>704</y>
+          <x>2</x>
+          <y>586</y>
         </console-locationReference>
         <console-locationReference id="95">
-          <x>419</x>
-          <y>749</y>
+          <x>79</x>
+          <y>631</y>
         </console-locationReference>
         <console-locationReference id="138">
-          <x>495</x>
-          <y>793</y>
+          <x>155</x>
+          <y>675</y>
         </console-locationReference>
         <console-locationReference id="76">
-          <x>572</x>
-          <y>836</y>
+          <x>232</x>
+          <y>718</y>
         </console-locationReference>
         <console-locationReference id="133">
-          <x>1101</x>
-          <y>749</y>
+          <x>429</x>
+          <y>1491</y>
         </console-locationReference>
         <console-locationReference id="69">
-          <x>1178</x>
-          <y>704</y>
+          <x>506</x>
+          <y>1446</y>
         </console-locationReference>
         <console-locationReference id="82">
-          <x>1255</x>
-          <y>661</y>
+          <x>583</x>
+          <y>1403</y>
         </console-locationReference>
         <console-locationReference id="112">
-          <x>342</x>
-          <y>617</y>
+          <x>2</x>
+          <y>499</y>
         </console-locationReference>
         <console-locationReference id="90">
-          <x>419</x>
-          <y>660</y>
+          <x>79</x>
+          <y>542</y>
         </console-locationReference>
         <console-locationReference id="152">
-          <x>495</x>
-          <y>705</y>
+          <x>155</x>
+          <y>587</y>
         </console-locationReference>
         <console-locationReference id="91">
-          <x>572</x>
-          <y>749</y>
+          <x>232</x>
+          <y>631</y>
         </console-locationReference>
         <console-locationReference id="104">
-          <x>1024</x>
-          <y>617</y>
+          <x>352</x>
+          <y>1359</y>
         </console-locationReference>
         <console-locationReference id="102">
-          <x>1101</x>
-          <y>572</y>
+          <x>429</x>
+          <y>1314</y>
         </console-locationReference>
         <console-locationReference id="141">
-          <x>1178</x>
-          <y>529</y>
+          <x>506</x>
+          <y>1271</y>
         </console-locationReference>
         <console-locationReference id="155">
-          <x>1256</x>
-          <y>484</y>
+          <x>584</x>
+          <y>1226</y>
         </console-locationReference>
         <console-locationReference id="115">
-          <x>342</x>
-          <y>529</y>
+          <x>2</x>
+          <y>411</y>
         </console-locationReference>
         <console-locationReference id="79">
-          <x>419</x>
-          <y>573</y>
+          <x>79</x>
+          <y>455</y>
         </console-locationReference>
         <console-locationReference id="151">
-          <x>496</x>
-          <y>616</y>
+          <x>156</x>
+          <y>498</y>
         </console-locationReference>
         <console-locationReference id="132">
-          <x>572</x>
-          <y>660</y>
+          <x>232</x>
+          <y>542</y>
         </console-locationReference>
         <console-locationReference id="62">
-          <x>1024</x>
-          <y>528</y>
+          <x>352</x>
+          <y>1270</y>
         </console-locationReference>
         <console-locationReference id="129">
-          <x>1101</x>
-          <y>485</y>
+          <x>429</x>
+          <y>1227</y>
         </console-locationReference>
         <console-locationReference id="70">
-          <x>1177</x>
-          <y>440</y>
+          <x>505</x>
+          <y>1182</y>
         </console-locationReference>
         <console-locationReference id="157">
-          <x>1255</x>
-          <y>396</y>
+          <x>583</x>
+          <y>1138</y>
         </console-locationReference>
         <console-locationReference id="109">
-          <x>342</x>
-          <y>440</y>
+          <x>2</x>
+          <y>322</y>
         </console-locationReference>
         <console-locationReference id="134">
-          <x>419</x>
-          <y>484</y>
+          <x>79</x>
+          <y>366</y>
         </console-locationReference>
         <console-locationReference id="89">
-          <x>496</x>
-          <y>528</y>
+          <x>156</x>
+          <y>410</y>
         </console-locationReference>
         <console-locationReference id="147">
-          <x>572</x>
-          <y>572</y>
+          <x>232</x>
+          <y>454</y>
         </console-locationReference>
         <console-locationReference id="140">
-          <x>1024</x>
-          <y>440</y>
+          <x>352</x>
+          <y>1182</y>
         </console-locationReference>
         <console-locationReference id="103">
-          <x>1101</x>
-          <y>396</y>
+          <x>429</x>
+          <y>1138</y>
         </console-locationReference>
         <console-locationReference id="80">
-          <x>1178</x>
-          <y>352</y>
+          <x>506</x>
+          <y>1094</y>
         </console-locationReference>
         <console-locationReference id="160">
-          <x>1256</x>
-          <y>309</y>
+          <x>584</x>
+          <y>1051</y>
         </console-locationReference>
         <console-locationReference id="78">
-          <x>342</x>
-          <y>353</y>
+          <x>2</x>
+          <y>235</y>
         </console-locationReference>
         <console-locationReference id="142">
-          <x>419</x>
-          <y>397</y>
+          <x>79</x>
+          <y>279</y>
         </console-locationReference>
         <console-locationReference id="144">
-          <x>496</x>
-          <y>441</y>
+          <x>156</x>
+          <y>323</y>
         </console-locationReference>
         <console-locationReference id="154">
-          <x>572</x>
-          <y>484</y>
+          <x>232</x>
+          <y>366</y>
         </console-locationReference>
         <console-locationReference id="99">
-          <x>1024</x>
-          <y>352</y>
+          <x>352</x>
+          <y>1094</y>
         </console-locationReference>
         <console-locationReference id="156">
-          <x>1101</x>
-          <y>309</y>
+          <x>429</x>
+          <y>1051</y>
         </console-locationReference>
         <console-locationReference id="161">
-          <x>1177</x>
-          <y>265</y>
+          <x>505</x>
+          <y>1007</y>
         </console-locationReference>
         <console-locationReference id="158">
-          <x>1256</x>
-          <y>220</y>
+          <x>584</x>
+          <y>962</y>
         </console-locationReference>
         <console-locationReference id="57">
-          <x>342</x>
-          <y>264</y>
+          <x>2</x>
+          <y>146</y>
         </console-locationReference>
         <console-locationReference id="72">
-          <x>419</x>
-          <y>309</y>
+          <x>79</x>
+          <y>191</y>
         </console-locationReference>
         <console-locationReference id="111">
-          <x>497</x>
-          <y>353</y>
+          <x>157</x>
+          <y>235</y>
         </console-locationReference>
         <console-locationReference id="148">
-          <x>572</x>
-          <y>397</y>
+          <x>232</x>
+          <y>279</y>
         </console-locationReference>
         <console-locationReference id="41">
-          <x>1024</x>
-          <y>264</y>
+          <x>352</x>
+          <y>1006</y>
         </console-locationReference>
         <console-locationReference id="43">
-          <x>1101</x>
-          <y>221</y>
+          <x>429</x>
+          <y>963</y>
         </console-locationReference>
         <console-locationReference id="42">
-          <x>1177</x>
-          <y>176</y>
+          <x>505</x>
+          <y>918</y>
         </console-locationReference>
         <console-locationReference id="58">
-          <x>1255</x>
-          <y>133</y>
+          <x>581</x>
+          <y>881</y>
         </console-locationReference>
         <console-locationReference id="56">
-          <x>419</x>
-          <y>220</y>
+          <x>79</x>
+          <y>102</y>
         </console-locationReference>
         <console-locationReference id="59">
-          <x>496</x>
-          <y>265</y>
+          <x>156</x>
+          <y>147</y>
         </console-locationReference>
         <console-locationReference id="162">
-          <x>573</x>
-          <y>309</y>
+          <x>233</x>
+          <y>191</y>
         </console-locationReference>
         <console-locationReference id="165">
-          <x>1024</x>
-          <y>176</y>
+          <x>352</x>
+          <y>918</y>
         </console-locationReference>
         <console-locationReference id="47">
-          <x>496</x>
-          <y>177</y>
+          <x>156</x>
+          <y>59</y>
         </console-locationReference>
         <console-locationReference id="123">
-          <x>837</x>
-          <y>748</y>
+          <x>508</x>
+          <y>626</y>
         </console-locationReference>
         <console-locationReference id="149">
-          <x>914</x>
-          <y>704</y>
+          <x>585</x>
+          <y>582</y>
         </console-locationReference>
         <console-locationReference id="105">
-          <x>682</x>
-          <y>749</y>
+          <x>353</x>
+          <y>627</y>
         </console-locationReference>
         <console-locationReference id="85">
-          <x>759</x>
-          <y>705</y>
+          <x>430</x>
+          <y>583</y>
         </console-locationReference>
         <console-locationReference id="100">
-          <x>837</x>
-          <y>661</y>
+          <x>508</x>
+          <y>539</y>
         </console-locationReference>
         <console-locationReference id="86">
-          <x>914</x>
-          <y>617</y>
+          <x>585</x>
+          <y>495</y>
         </console-locationReference>
         <console-locationReference id="121">
-          <x>682</x>
-          <y>660</y>
+          <x>353</x>
+          <y>538</y>
         </console-locationReference>
         <console-locationReference id="110">
-          <x>760</x>
-          <y>617</y>
+          <x>431</x>
+          <y>495</y>
         </console-locationReference>
         <console-locationReference id="93">
-          <x>837</x>
-          <y>573</y>
+          <x>508</x>
+          <y>451</y>
         </console-locationReference>
         <console-locationReference id="87">
-          <x>914</x>
-          <y>529</y>
+          <x>585</x>
+          <y>407</y>
         </console-locationReference>
         <console-locationReference id="119">
-          <x>683</x>
-          <y>573</y>
+          <x>354</x>
+          <y>451</y>
         </console-locationReference>
         <console-locationReference id="146">
-          <x>760</x>
-          <y>528</y>
+          <x>431</x>
+          <y>406</y>
         </console-locationReference>
         <console-locationReference id="124">
-          <x>836</x>
-          <y>485</y>
+          <x>507</x>
+          <y>363</y>
         </console-locationReference>
         <console-locationReference id="125">
-          <x>914</x>
-          <y>440</y>
+          <x>585</x>
+          <y>318</y>
         </console-locationReference>
         <console-locationReference id="84">
-          <x>683</x>
-          <y>484</y>
+          <x>354</x>
+          <y>362</y>
         </console-locationReference>
         <console-locationReference id="94">
-          <x>760</x>
-          <y>441</y>
+          <x>431</x>
+          <y>319</y>
         </console-locationReference>
         <console-locationReference id="137">
-          <x>837</x>
-          <y>396</y>
+          <x>508</x>
+          <y>274</y>
         </console-locationReference>
         <console-locationReference id="131">
-          <x>914</x>
-          <y>353</y>
+          <x>585</x>
+          <y>231</y>
         </console-locationReference>
         <console-locationReference id="136">
-          <x>682</x>
-          <y>397</y>
+          <x>353</x>
+          <y>275</y>
         </console-locationReference>
         <console-locationReference id="101">
-          <x>760</x>
-          <y>353</y>
+          <x>431</x>
+          <y>231</y>
         </console-locationReference>
         <console-locationReference id="88">
-          <x>837</x>
-          <y>308</y>
+          <x>508</x>
+          <y>186</y>
         </console-locationReference>
         <console-locationReference id="28">
-          <x>914</x>
-          <y>265</y>
+          <x>585</x>
+          <y>143</y>
         </console-locationReference>
         <console-locationReference id="98">
-          <x>683</x>
-          <y>308</y>
+          <x>354</x>
+          <y>186</y>
         </console-locationReference>
         <console-locationReference id="116">
-          <x>760</x>
-          <y>264</y>
+          <x>431</x>
+          <y>142</y>
         </console-locationReference>
         <console-locationReference id="143">
-          <x>837</x>
-          <y>221</y>
+          <x>508</x>
+          <y>99</y>
         </console-locationReference>
         <console-locationReference id="60">
-          <x>914</x>
-          <y>176</y>
+          <x>585</x>
+          <y>54</y>
         </console-locationReference>
         <console-locationReference id="81">
-          <x>683</x>
-          <y>221</y>
+          <x>354</x>
+          <y>99</y>
         </console-locationReference>
         <console-locationReference id="46">
-          <x>759</x>
-          <y>176</y>
+          <x>430</x>
+          <y>54</y>
         </console-locationReference>
         <console-locationReference id="44">
-          <x>683</x>
-          <y>133</y>
+          <x>354</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="54">
-          <x>55</x>
-          <y>0</y>
+          <x>751</x>
+          <y>1091</y>
         </console-locationReference>
         <console-locationReference id="45">
-          <x>1</x>
-          <y>0</y>
+          <x>701</x>
+          <y>1091</y>
         </console-locationReference>
         <console-locationReference id="55">
-          <x>111</x>
-          <y>0</y>
+          <x>801</x>
+          <y>1091</y>
         </console-locationReference>
         <console-locationReference id="39">
-          <x>166</x>
-          <y>0</y>
+          <x>749</x>
+          <y>1317</y>
         </console-locationReference>
         <console-locationReference id="40">
-          <x>221</x>
-          <y>0</y>
+          <x>699</x>
+          <y>1317</y>
         </console-locationReference>
         <console-locationReference id="164">
-          <x>485</x>
-          <y>0</y>
+          <x>701</x>
+          <y>21</y>
         </console-locationReference>
         <console-locationReference id="53">
-          <x>540</x>
-          <y>0</y>
+          <x>701</x>
+          <y>161</y>
         </console-locationReference>
         <console-locationReference id="52">
-          <x>595</x>
-          <y>0</y>
+          <x>751</x>
+          <y>161</y>
         </console-locationReference>
         <console-locationReference id="51">
-          <x>650</x>
-          <y>0</y>
+          <x>801</x>
+          <y>161</y>
         </console-locationReference>
         <console-locationReference id="38">
-          <x>704</x>
-          <y>0</y>
+          <x>701</x>
+          <y>301</y>
         </console-locationReference>
         <console-locationReference id="37">
-          <x>760</x>
-          <y>0</y>
+          <x>751</x>
+          <y>301</y>
         </console-locationReference>
         <console-locationReference id="36">
-          <x>814</x>
-          <y>0</y>
+          <x>801</x>
+          <y>301</y>
         </console-locationReference>
         <console-locationReference id="617">
-          <x>870</x>
-          <y>0</y>
+          <x>751</x>
+          <y>21</y>
         </console-locationReference>
         <console-locationReference id="48">
-          <x>1134</x>
-          <y>0</y>
+          <x>701</x>
+          <y>531</y>
         </console-locationReference>
         <console-locationReference id="50">
-          <x>1188</x>
-          <y>0</y>
+          <x>751</x>
+          <y>531</y>
         </console-locationReference>
         <console-locationReference id="49">
-          <x>1243</x>
-          <y>0</y>
+          <x>801</x>
+          <y>531</y>
         </console-locationReference>
         <console-locationReference id="618">
-          <x>1299</x>
-          <y>0</y>
+          <x>801</x>
+          <y>21</y>
         </console-locationReference>
         <console-locationReference id="120069">
-          <x>88</x>
-          <y>145</y>
+          <x>779</x>
+          <y>877</y>
         </console-locationReference>
       </references>
       <messages/>
       <style>darkconsole</style>
-      <zoom>0.75</zoom>
+      <zoom>1.15</zoom>
       <skin>aeolian-skinner_7.0.zip</skin>
       <screen>\Display0</screen>
     </console>
@@ -12650,8 +12218,6 @@ name = Console</description>
         <reference id="198"/>
         <reference id="35"/>
         <reference id="413"/>
-        <reference id="414"/>
-        <reference id="404"/>
         <reference id="401"/>
         <reference id="405"/>
         <reference id="407"/>
@@ -12857,8 +12423,8 @@ name = Console</description>
         <reference id="156"/>
       </references>
       <messages/>
-      <input>2- mioXC MIDI IN</input>
-      <output>Out To MIDI Yoke:  1</output>
+      <input>mioXC</input>
+      <output>jOrgan Null</output>
     </connector>
     <stop id="149">
       <name>gt.viola:8</name>
@@ -12916,7 +12482,7 @@ A pioneer in the field of amateur virtual organs.</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -13779,7 +13345,9 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 93, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -13831,7 +13399,10 @@ pitch = 8&apos;</description>
       <references>
         <reference id="340"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 206, equal 9, equal 0</switch-deactivate>
+        <switch-activate>equal 206, equal 1, equal 0</switch-activate>
+      </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -13980,7 +13551,7 @@ pitch =  8&apos;</description>
       <messages/>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -14322,10 +13893,13 @@ pitch = 8&apos;</description>
       <references>
         <reference id="34"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 206, equal 41, equal 0</switch-deactivate>
+        <switch-activate>equal 206, equal 33, equal 0</switch-activate>
+      </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -14683,11 +14257,11 @@ pitch = 2&apos;</description>
         <reference id="193"/>
       </references>
       <messages>
-        <keyboard-pressKey>equal 158, lessEqual 96 | greaterEqual 35 | get pitch, greater 0 | get velocity</keyboard-pressKey>
-        <keyboard-releaseKey>equal 158, lessEqual 96 | greaterEqual 35 | get pitch, equal 0</keyboard-releaseKey>
-        <keyboard-releaseKey>equal 142, lessEqual 96 | greaterEqual 35 | get pitch, </keyboard-releaseKey>
+        <keyboard-pressKey>equal 158, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
+        <keyboard-releaseKey>equal 158, lessEqual 96 | greaterEqual 36 | get pitch, equal 0</keyboard-releaseKey>
+        <keyboard-releaseKey>equal 142, lessEqual 96 | greaterEqual 36 | get pitch, </keyboard-releaseKey>
       </messages>
-      <input>2- mioXC MIDI IN</input>
+      <input>mioXC</input>
     </keyboard>
     <rank id="504">
       <name>PD.09.Scharff IV</name>
@@ -14737,7 +14311,7 @@ pitch = 2&apos;</description>
       </messages>
       <style>coupler</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
     </switchFilter>
     <coupler id="58">
@@ -14945,7 +14519,9 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 108, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -15018,7 +14594,10 @@ pitch = II</description>
         <reference id="326"/>
         <reference id="244"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-deactivate>equal 202, equal 52, equal 0</switch-deactivate>
+        <switch-activate>equal 202, equal 88, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -15327,466 +14906,6 @@ pitch = IV</description>
       <threshold>0.0</threshold>
       <value>0.0</value>
     </regulator>
-    <combination id="404">
-      <name>10  GEN_10</name>
-      <description>GENERAL COMBINATION
-
-name = 10</description>
-      <references>
-        <combination-switchReference id="660">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="656">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="658">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="657">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="652">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="620">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="617">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="618">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="651">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="36">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="37">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="38">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="39">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="40">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="41">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="42">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="43">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="44">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="45">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="46">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="47">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="48">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="49">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="50">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="51">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="52">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="53">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="54">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="55">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="56">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="57">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="58">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="59">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="60">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="62">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="63">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="64">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="65">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="66">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="67">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="68">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="69">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="70">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="71">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="72">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="73">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="74">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="75">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="76">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="77">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="78">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="79">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="80">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="81">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="82">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="83">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="84">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="85">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="86">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="87">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="88">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="89">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="90">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="91">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="92">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="93">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="94">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="95">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="96">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="97">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="98">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="99">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="100">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="101">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="102">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="103">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="104">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="105">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="106">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="107">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="108">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="109">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="110">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="111">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="112">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="113">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="114">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="115">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="116">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="117">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="118">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="119">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="120">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="121">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="122">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="123">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="124">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="125">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="126">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="127">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="128">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="129">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="130">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="131">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="132">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="133">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="134">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="135">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="136">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="137">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="138">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="139">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="140">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="141">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="142">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="143">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="144">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="145">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="146">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="147">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="148">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="149">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="150">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="151">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="152">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="153">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="154">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="155">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="156">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="157">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="158">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="159">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="160">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="161">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="28">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="14">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="162">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="163">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="164">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="165">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-continuousReference id="166">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="167">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="168">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="169">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="170">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="171">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="172">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-continuousReference id="173">
-          <value>0.0</value>
-        </combination-continuousReference>
-        <combination-switchReference id="33">
-          <active>false</active>
-        </combination-switchReference>
-      </references>
-      <messages/>
-      <style>piston</style>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>200</duration>
-    </combination>
     <combination id="401">
       <name>CH_1</name>
       <description>CHOIR COMBINATION
@@ -16963,11 +16082,11 @@ pitch = 4&apos;</description>
         <reference id="193"/>
       </references>
       <messages>
-        <keyboard-pressKey>equal 156, lessEqual 66 | greaterEqual 35 | get pitch, greater 0 | get velocity</keyboard-pressKey>
-        <keyboard-releaseKey>equal 156, lessEqual 66 | greaterEqual 35 | get pitch, equal 0</keyboard-releaseKey>
-        <keyboard-releaseKey>equal 140, lessEqual 66 | greaterEqual 35 | get pitch, </keyboard-releaseKey>
+        <keyboard-pressKey>equal 156, lessEqual 67 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
+        <keyboard-releaseKey>equal 156, lessEqual 67 | greaterEqual 36 | get pitch, equal 0</keyboard-releaseKey>
+        <keyboard-releaseKey>equal 140, lessEqual 67 | greaterEqual 36 | get pitch, </keyboard-releaseKey>
       </messages>
-      <input>2- mioXC MIDI IN</input>
+      <input>mioXC</input>
     </keyboard>
     <stop id="84">
       <name>gt.doublette:2</name>
@@ -17251,7 +16370,9 @@ name = 5</description>
           <active>true</active>
         </combination-switchReference>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 100, equal 0</switch-activate>
+      </messages>
       <style>piston</style>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -17550,7 +16671,7 @@ name = CHOIR  TO  GREAT  4&apos;</description>
       <messages/>
       <style>coupler-tablet-red</style>
       <zoom>0.8</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <pitch>60</pitch>
       <velocity>100</velocity>
@@ -17726,7 +16847,9 @@ name = CHOIR  TO  GREAT  8&apos;</description>
         <reference id="62"/>
         <reference id="165"/>
       </references>
-      <messages/>
+      <messages>
+        <switch-activate>equal 202, equal 28, equal 0</switch-activate>
+      </messages>
       <style>coupler-tablet-red</style>
       <zoom>0.8</zoom>
       <active>false</active>
@@ -18302,964 +17425,958 @@ pitch = III</description>
 </description>
       <references>
         <console-locationReference id="96">
-          <x>341</x>
-          <y>660</y>
+          <x>295</x>
+          <y>648</y>
         </console-locationReference>
         <console-locationReference id="66">
-          <x>418</x>
-          <y>704</y>
+          <x>372</x>
+          <y>692</y>
         </console-locationReference>
         <console-locationReference id="113">
           <x>0</x>
-          <y>572</y>
+          <y>940</y>
         </console-locationReference>
         <console-locationReference id="208">
-          <x>693</x>
-          <y>286</y>
+          <x>141</x>
+          <y>1130</y>
         </console-locationReference>
         <console-locationReference id="271">
-          <x>540</x>
-          <y>804</y>
+          <x>444</x>
+          <y>792</y>
         </console-locationReference>
         <console-locationReference id="345">
-          <x>232</x>
-          <y>804</y>
+          <x>191</x>
+          <y>1081</y>
         </console-locationReference>
         <console-locationReference id="410">
-          <x>188</x>
-          <y>804</y>
+          <x>147</x>
+          <y>1081</y>
         </console-locationReference>
         <console-locationReference id="363">
-          <x>144</x>
-          <y>804</y>
+          <x>103</x>
+          <y>1081</y>
         </console-locationReference>
         <console-locationReference id="372">
-          <x>100</x>
-          <y>804</y>
+          <x>59</x>
+          <y>1081</y>
         </console-locationReference>
         <console-locationReference id="402">
-          <x>56</x>
-          <y>804</y>
+          <x>15</x>
+          <y>1081</y>
         </console-locationReference>
         <console-locationReference id="381">
-          <x>670</x>
-          <y>361</y>
+          <x>304</x>
+          <y>1061</y>
         </console-locationReference>
         <console-locationReference id="15">
-          <x>379</x>
-          <y>0</y>
+          <x>311</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="189">
-          <x>706</x>
-          <y>429</y>
+          <x>520</x>
+          <y>1061</y>
         </console-locationReference>
         <console-locationReference id="291">
-          <x>706</x>
-          <y>497</y>
-        </console-locationReference>
-        <console-locationReference id="404">
-          <x>1067</x>
-          <y>660</y>
+          <x>22</x>
+          <y>1139</y>
         </console-locationReference>
         <console-locationReference id="320">
-          <x>1067</x>
-          <y>704</y>
-        </console-locationReference>
-        <console-locationReference id="414">
-          <x>1023</x>
-          <y>660</y>
+          <x>341</x>
+          <y>1150</y>
         </console-locationReference>
         <console-locationReference id="327">
-          <x>1023</x>
-          <y>704</y>
+          <x>471</x>
+          <y>1110</y>
         </console-locationReference>
         <console-locationReference id="413">
-          <x>979</x>
-          <y>660</y>
+          <x>471</x>
+          <y>1150</y>
         </console-locationReference>
         <console-locationReference id="409">
-          <x>979</x>
-          <y>704</y>
+          <x>427</x>
+          <y>1110</y>
         </console-locationReference>
         <console-locationReference id="35">
-          <x>935</x>
-          <y>660</y>
+          <x>427</x>
+          <y>1150</y>
         </console-locationReference>
         <console-locationReference id="406">
-          <x>935</x>
-          <y>704</y>
+          <x>383</x>
+          <y>1110</y>
         </console-locationReference>
         <console-locationReference id="198">
-          <x>891</x>
-          <y>660</y>
+          <x>383</x>
+          <y>1150</y>
         </console-locationReference>
         <console-locationReference id="240">
-          <x>891</x>
-          <y>704</y>
+          <x>341</x>
+          <y>1110</y>
         </console-locationReference>
         <console-locationReference id="287">
-          <x>330</x>
+          <x>280</x>
           <y>1</y>
         </console-locationReference>
         <console-locationReference id="374">
-          <x>330</x>
-          <y>396</y>
+          <x>280</x>
+          <y>530</y>
         </console-locationReference>
         <console-locationReference id="45">
-          <x>749</x>
-          <y>12</y>
+          <x>11</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="54">
-          <x>815</x>
-          <y>12</y>
+          <x>61</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="39">
-          <x>936</x>
-          <y>12</y>
+          <x>160</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="445">
-          <x>891</x>
-          <y>748</y>
+          <x>301</x>
+          <y>1110</y>
         </console-locationReference>
         <console-locationReference id="55">
-          <x>870</x>
-          <y>12</y>
+          <x>110</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="40">
-          <x>991</x>
-          <y>12</y>
+          <x>211</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="336">
-          <x>697</x>
-          <y>194</y>
+          <x>313</x>
+          <y>846</y>
         </console-locationReference>
         <console-locationReference id="244">
-          <x>692</x>
-          <y>209</y>
+          <x>308</x>
+          <y>861</y>
         </console-locationReference>
         <console-locationReference id="164">
           <x>1057</x>
           <y>12</y>
         </console-locationReference>
         <console-locationReference id="463">
-          <x>704</x>
-          <y>814</y>
+          <x>542</x>
+          <y>1144</y>
         </console-locationReference>
         <console-locationReference id="486">
-          <x>748</x>
-          <y>814</y>
+          <x>586</x>
+          <y>1144</y>
         </console-locationReference>
         <console-locationReference id="195">
-          <x>792</x>
-          <y>814</y>
+          <x>630</x>
+          <y>1144</y>
         </console-locationReference>
         <console-locationReference id="188">
-          <x>763</x>
-          <y>430</y>
+          <x>577</x>
+          <y>1062</y>
         </console-locationReference>
         <console-locationReference id="422">
-          <x>707</x>
-          <y>429</y>
+          <x>521</x>
+          <y>1061</y>
         </console-locationReference>
         <console-locationReference id="440">
-          <x>764</x>
-          <y>498</y>
+          <x>80</x>
+          <y>1140</y>
         </console-locationReference>
         <console-locationReference id="380">
-          <x>670</x>
-          <y>360</y>
+          <x>304</x>
+          <y>1060</y>
         </console-locationReference>
         <console-locationReference id="488">
-          <x>796</x>
-          <y>360</y>
+          <x>430</x>
+          <y>1060</y>
         </console-locationReference>
         <console-locationReference id="490">
-          <x>815</x>
-          <y>199</y>
+          <x>431</x>
+          <y>841</y>
         </console-locationReference>
         <console-locationReference id="512">
-          <x>682</x>
-          <y>770</y>
+          <x>520</x>
+          <y>1100</y>
         </console-locationReference>
         <console-locationReference id="403">
-          <x>408</x>
-          <y>804</y>
+          <x>310</x>
+          <y>790</y>
         </console-locationReference>
         <console-locationReference id="192">
-          <x>452</x>
-          <y>804</y>
+          <x>356</x>
+          <y>792</y>
         </console-locationReference>
         <console-locationReference id="318">
-          <x>496</x>
-          <y>804</y>
+          <x>400</x>
+          <y>792</y>
         </console-locationReference>
         <console-locationReference id="412">
-          <x>584</x>
-          <y>804</y>
+          <x>488</x>
+          <y>792</y>
         </console-locationReference>
         <console-locationReference id="423">
-          <x>1067</x>
-          <y>748</y>
+          <x>301</x>
+          <y>1150</y>
         </console-locationReference>
         <console-locationReference id="400">
-          <x>5</x>
-          <y>5</y>
+          <x>21</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="398">
-          <x>694</x>
-          <y>287</y>
+          <x>142</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="207">
-          <x>763</x>
-          <y>287</y>
+          <x>211</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="598">
-          <x>106</x>
-          <y>1</y>
+          <x>80</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="601">
-          <x>379</x>
-          <y>0</y>
+          <x>311</x>
+          <y>10</y>
         </console-locationReference>
         <console-locationReference id="487">
-          <x>707</x>
-          <y>497</y>
+          <x>23</x>
+          <y>1139</y>
         </console-locationReference>
         <console-locationReference id="120069">
-          <x>48</x>
-          <y>5</y>
+          <x>200</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="120042">
-          <x>881</x>
-          <y>199</y>
+          <x>261</x>
+          <y>951</y>
         </console-locationReference>
         <console-locationReference id="120052">
-          <x>881</x>
-          <y>320</y>
+          <x>491</x>
+          <y>860</y>
         </console-locationReference>
         <console-locationReference id="97">
           <x>0</x>
-          <y>484</y>
+          <y>850</y>
         </console-locationReference>
         <console-locationReference id="114">
-          <x>77</x>
-          <y>528</y>
+          <x>81</x>
+          <y>890</y>
         </console-locationReference>
         <console-locationReference id="77">
-          <x>154</x>
-          <y>572</y>
+          <x>80</x>
+          <y>980</y>
         </console-locationReference>
         <console-locationReference id="67">
-          <x>231</x>
-          <y>616</y>
+          <x>161</x>
+          <y>850</y>
         </console-locationReference>
         <console-locationReference id="128">
-          <x>231</x>
-          <y>528</y>
+          <x>-1</x>
+          <y>760</y>
         </console-locationReference>
         <console-locationReference id="153">
-          <x>154</x>
-          <y>484</y>
+          <x>80</x>
+          <y>800</y>
         </console-locationReference>
         <console-locationReference id="92">
-          <x>77</x>
-          <y>440</y>
+          <x>81</x>
+          <y>530</y>
         </console-locationReference>
         <console-locationReference id="122">
           <x>0</x>
-          <y>396</y>
+          <y>670</y>
         </console-locationReference>
         <console-locationReference id="120">
           <x>0</x>
-          <y>308</y>
+          <y>580</y>
         </console-locationReference>
         <console-locationReference id="107">
-          <x>77</x>
-          <y>352</y>
+          <x>81</x>
+          <y>350</y>
         </console-locationReference>
         <console-locationReference id="139">
-          <x>154</x>
-          <y>396</y>
-        </console-locationReference>
-        <console-locationReference id="127">
-          <x>231</x>
+          <x>80</x>
           <y>440</y>
         </console-locationReference>
+        <console-locationReference id="127">
+          <x>81</x>
+          <y>710</y>
+        </console-locationReference>
         <console-locationReference id="126">
-          <x>231</x>
-          <y>352</y>
+          <x>71</x>
+          <y>620</y>
         </console-locationReference>
         <console-locationReference id="74">
-          <x>154</x>
-          <y>308</y>
+          <x>160</x>
+          <y>940</y>
         </console-locationReference>
         <console-locationReference id="63">
-          <x>77</x>
-          <y>264</y>
+          <x>1</x>
+          <y>400</y>
         </console-locationReference>
         <console-locationReference id="68">
           <x>0</x>
-          <y>220</y>
+          <y>490</y>
         </console-locationReference>
         <console-locationReference id="75">
-          <x>231</x>
-          <y>264</y>
+          <x>161</x>
+          <y>670</y>
         </console-locationReference>
         <console-locationReference id="65">
-          <x>154</x>
-          <y>220</y>
+          <x>160</x>
+          <y>580</y>
         </console-locationReference>
         <console-locationReference id="117">
-          <x>77</x>
-          <y>176</y>
+          <x>161</x>
+          <y>760</y>
         </console-locationReference>
         <console-locationReference id="106">
           <x>0</x>
-          <y>132</y>
+          <y>310</y>
         </console-locationReference>
         <console-locationReference id="159">
-          <x>231</x>
-          <y>176</y>
+          <x>161</x>
+          <y>220</y>
         </console-locationReference>
         <console-locationReference id="64">
-          <x>154</x>
-          <y>132</y>
+          <x>160</x>
+          <y>490</y>
         </console-locationReference>
         <console-locationReference id="145">
-          <x>77</x>
-          <y>88</y>
+          <x>81</x>
+          <y>260</y>
         </console-locationReference>
         <console-locationReference id="135">
           <x>0</x>
-          <y>44</y>
+          <y>220</y>
         </console-locationReference>
         <console-locationReference id="130">
-          <x>231</x>
-          <y>88</y>
+          <x>161</x>
+          <y>400</y>
         </console-locationReference>
         <console-locationReference id="71">
-          <x>154</x>
-          <y>44</y>
+          <x>160</x>
+          <y>310</y>
         </console-locationReference>
         <console-locationReference id="118">
-          <x>341</x>
-          <y>572</y>
+          <x>295</x>
+          <y>560</y>
         </console-locationReference>
         <console-locationReference id="95">
-          <x>418</x>
-          <y>616</y>
+          <x>372</x>
+          <y>604</y>
         </console-locationReference>
         <console-locationReference id="138">
-          <x>495</x>
-          <y>660</y>
+          <x>449</x>
+          <y>648</y>
         </console-locationReference>
         <console-locationReference id="76">
-          <x>572</x>
-          <y>704</y>
+          <x>526</x>
+          <y>692</y>
         </console-locationReference>
         <console-locationReference id="91">
-          <x>572</x>
-          <y>616</y>
+          <x>526</x>
+          <y>604</y>
         </console-locationReference>
         <console-locationReference id="152">
-          <x>495</x>
-          <y>572</y>
+          <x>449</x>
+          <y>560</y>
         </console-locationReference>
         <console-locationReference id="90">
-          <x>418</x>
-          <y>528</y>
+          <x>372</x>
+          <y>516</y>
         </console-locationReference>
         <console-locationReference id="112">
-          <x>341</x>
-          <y>484</y>
+          <x>295</x>
+          <y>472</y>
         </console-locationReference>
         <console-locationReference id="132">
-          <x>572</x>
-          <y>528</y>
+          <x>530</x>
+          <y>520</y>
         </console-locationReference>
         <console-locationReference id="151">
-          <x>495</x>
-          <y>484</y>
+          <x>449</x>
+          <y>472</y>
         </console-locationReference>
         <console-locationReference id="79">
-          <x>418</x>
-          <y>440</y>
+          <x>372</x>
+          <y>428</y>
         </console-locationReference>
         <console-locationReference id="115">
-          <x>341</x>
-          <y>396</y>
+          <x>295</x>
+          <y>388</y>
         </console-locationReference>
         <console-locationReference id="147">
-          <x>572</x>
-          <y>440</y>
+          <x>526</x>
+          <y>428</y>
         </console-locationReference>
         <console-locationReference id="89">
-          <x>495</x>
-          <y>396</y>
+          <x>449</x>
+          <y>384</y>
         </console-locationReference>
         <console-locationReference id="109">
-          <x>342</x>
-          <y>309</y>
+          <x>296</x>
+          <y>297</y>
         </console-locationReference>
         <console-locationReference id="134">
-          <x>418</x>
-          <y>352</y>
+          <x>372</x>
+          <y>340</y>
         </console-locationReference>
         <console-locationReference id="154">
-          <x>572</x>
-          <y>352</y>
+          <x>526</x>
+          <y>340</y>
         </console-locationReference>
         <console-locationReference id="144">
-          <x>496</x>
-          <y>309</y>
+          <x>450</x>
+          <y>297</y>
         </console-locationReference>
         <console-locationReference id="142">
-          <x>419</x>
-          <y>265</y>
+          <x>373</x>
+          <y>253</y>
         </console-locationReference>
         <console-locationReference id="78">
-          <x>342</x>
-          <y>221</y>
+          <x>296</x>
+          <y>209</y>
         </console-locationReference>
         <console-locationReference id="148">
-          <x>573</x>
-          <y>265</y>
+          <x>527</x>
+          <y>253</y>
         </console-locationReference>
         <console-locationReference id="111">
-          <x>496</x>
-          <y>221</y>
+          <x>450</x>
+          <y>209</y>
         </console-locationReference>
         <console-locationReference id="72">
-          <x>419</x>
-          <y>177</y>
+          <x>373</x>
+          <y>165</y>
         </console-locationReference>
         <console-locationReference id="57">
-          <x>341</x>
-          <y>132</y>
+          <x>295</x>
+          <y>120</y>
         </console-locationReference>
         <console-locationReference id="162">
-          <x>573</x>
-          <y>177</y>
+          <x>527</x>
+          <y>165</y>
         </console-locationReference>
         <console-locationReference id="59">
-          <x>495</x>
-          <y>132</y>
+          <x>449</x>
+          <y>120</y>
         </console-locationReference>
         <console-locationReference id="56">
-          <x>418</x>
-          <y>88</y>
+          <x>372</x>
+          <y>76</y>
         </console-locationReference>
         <console-locationReference id="14">
-          <x>572</x>
-          <y>88</y>
+          <x>526</x>
+          <y>76</y>
         </console-locationReference>
         <console-locationReference id="47">
-          <x>495</x>
-          <y>44</y>
+          <x>451</x>
+          <y>30</y>
         </console-locationReference>
         <console-locationReference id="120071">
-          <x>881</x>
-          <y>420</y>
+          <x>491</x>
+          <y>940</y>
         </console-locationReference>
       </references>
       <messages/>
       <style>darkconsole</style>
-      <zoom>0.89</zoom>
+      <zoom>1.6</zoom>
       <skin>aeolian-skinner_7.0.zip</skin>
+      <screen>\Display1</screen>
     </console>
     <console id="514">
       <name>.RIGHT</name>
       <description>American Classic Organ Version 7.0</description>
       <references>
         <console-locationReference id="172">
-          <x>135</x>
-          <y>505</y>
+          <x>591</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="552">
-          <x>694</x>
-          <y>672</y>
+          <x>171</x>
+          <y>182</y>
         </console-locationReference>
         <console-locationReference id="660">
-          <x>331</x>
-          <y>574</y>
+          <x>251</x>
+          <y>1011</y>
         </console-locationReference>
         <console-locationReference id="33">
-          <x>1024</x>
-          <y>617</y>
+          <x>511</x>
+          <y>880</y>
         </console-locationReference>
         <console-locationReference id="170">
-          <x>1013</x>
-          <y>749</y>
+          <x>581</x>
+          <y>1011</y>
         </console-locationReference>
         <console-locationReference id="169">
-          <x>32</x>
-          <y>364</y>
+          <x>382</x>
+          <y>194</y>
         </console-locationReference>
         <console-locationReference id="374">
-          <x>783</x>
-          <y>1</y>
+          <x>351</x>
+          <y>-11</y>
         </console-locationReference>
         <console-locationReference id="245">
-          <x>783</x>
-          <y>408</y>
+          <x>351</x>
+          <y>411</y>
         </console-locationReference>
         <console-locationReference id="299">
-          <x>271</x>
-          <y>175</y>
+          <x>191</x>
+          <y>551</y>
         </console-locationReference>
         <console-locationReference id="411">
-          <x>694</x>
-          <y>804</y>
+          <x>281</x>
+          <y>1210</y>
         </console-locationReference>
         <console-locationReference id="183">
-          <x>650</x>
-          <y>804</y>
+          <x>241</x>
+          <y>1210</y>
         </console-locationReference>
         <console-locationReference id="408">
-          <x>606</x>
-          <y>804</y>
+          <x>195</x>
+          <y>1212</y>
         </console-locationReference>
         <console-locationReference id="379">
-          <x>562</x>
-          <y>804</y>
+          <x>151</x>
+          <y>1212</y>
         </console-locationReference>
         <console-locationReference id="268">
-          <x>518</x>
-          <y>804</y>
+          <x>107</x>
+          <y>1212</y>
         </console-locationReference>
         <console-locationReference id="303">
-          <x>1014</x>
-          <y>804</y>
+          <x>411</x>
+          <y>1020</y>
         </console-locationReference>
         <console-locationReference id="343">
-          <x>970</x>
-          <y>804</y>
+          <x>371</x>
+          <y>1020</y>
         </console-locationReference>
         <console-locationReference id="407">
-          <x>926</x>
-          <y>804</y>
+          <x>451</x>
+          <y>980</y>
         </console-locationReference>
         <console-locationReference id="405">
-          <x>882</x>
-          <y>804</y>
+          <x>411</x>
+          <y>980</y>
         </console-locationReference>
         <console-locationReference id="401">
-          <x>838</x>
-          <y>804</y>
+          <x>371</x>
+          <y>980</y>
         </console-locationReference>
         <console-locationReference id="168">
-          <x>31</x>
-          <y>321</y>
+          <x>381</x>
+          <y>151</y>
         </console-locationReference>
         <console-locationReference id="166">
-          <x>31</x>
-          <y>411</y>
+          <x>477</x>
+          <y>1077</y>
         </console-locationReference>
         <console-locationReference id="287">
-          <x>441</x>
-          <y>1</y>
+          <x>351</x>
+          <y>411</y>
         </console-locationReference>
         <console-locationReference id="484">
-          <x>441</x>
-          <y>408</y>
+          <x>351</x>
+          <y>741</y>
         </console-locationReference>
         <console-locationReference id="52">
-          <x>67</x>
-          <y>12</y>
+          <x>231</x>
+          <y>271</y>
         </console-locationReference>
         <console-locationReference id="53">
-          <x>12</x>
-          <y>12</y>
+          <x>181</x>
+          <y>271</y>
         </console-locationReference>
         <console-locationReference id="51">
-          <x>122</x>
-          <y>12</y>
+          <x>281</x>
+          <y>271</y>
         </console-locationReference>
         <console-locationReference id="37">
-          <x>243</x>
-          <y>12</y>
+          <x>231</x>
+          <y>411</y>
         </console-locationReference>
         <console-locationReference id="38">
-          <x>188</x>
-          <y>12</y>
+          <x>181</x>
+          <y>411</y>
         </console-locationReference>
         <console-locationReference id="2">
-          <x>867</x>
-          <y>4</y>
+          <x>381</x>
+          <y>240</y>
         </console-locationReference>
         <console-locationReference id="171">
-          <x>1013</x>
-          <y>719</y>
+          <x>581</x>
+          <y>981</y>
         </console-locationReference>
         <console-locationReference id="393">
-          <x>180</x>
-          <y>321</y>
+          <x>530</x>
+          <y>151</y>
         </console-locationReference>
         <console-locationReference id="309">
-          <x>180</x>
-          <y>411</y>
+          <x>626</x>
+          <y>1077</y>
         </console-locationReference>
         <console-locationReference id="392">
-          <x>31</x>
-          <y>411</y>
+          <x>477</x>
+          <y>1077</y>
         </console-locationReference>
         <console-locationReference id="298">
-          <x>344</x>
-          <y>175</y>
+          <x>265</x>
+          <y>551</y>
         </console-locationReference>
         <console-locationReference id="366">
-          <x>271</x>
-          <y>175</y>
+          <x>192</x>
+          <y>551</y>
         </console-locationReference>
         <console-locationReference id="400">
-          <x>987</x>
-          <y>2</y>
+          <x>376</x>
+          <y>55</y>
         </console-locationReference>
         <console-locationReference id="599">
-          <x>867</x>
-          <y>4</y>
+          <x>381</x>
+          <y>240</y>
         </console-locationReference>
         <console-locationReference id="600">
-          <x>631</x>
-          <y>4</y>
+          <x>211</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="36">
-          <x>298</x>
-          <y>12</y>
+          <x>281</x>
+          <y>411</y>
         </console-locationReference>
         <console-locationReference id="617">
-          <x>353</x>
-          <y>12</y>
+          <x>280</x>
+          <y>681</y>
         </console-locationReference>
         <console-locationReference id="48">
-          <x>12</x>
-          <y>166</y>
+          <x>381</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="50">
-          <x>67</x>
-          <y>166</y>
+          <x>431</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="49">
-          <x>122</x>
-          <y>166</y>
+          <x>481</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="618">
-          <x>188</x>
-          <y>167</y>
+          <x>531</x>
+          <y>11</y>
         </console-locationReference>
         <console-locationReference id="394">
-          <x>31</x>
-          <y>321</y>
+          <x>381</x>
+          <y>151</y>
         </console-locationReference>
         <console-locationReference id="120069">
-          <x>818</x>
-          <y>-1</y>
+          <x>292</x>
+          <y>81</y>
         </console-locationReference>
         <console-locationReference id="659">
-          <x>288</x>
-          <y>242</y>
+          <x>190</x>
+          <y>611</y>
         </console-locationReference>
         <console-locationReference id="666">
-          <x>232</x>
-          <y>683</y>
+          <x>191</x>
+          <y>681</y>
         </console-locationReference>
         <console-locationReference id="665">
-          <x>408</x>
-          <y>683</y>
+          <x>231</x>
+          <y>722</y>
         </console-locationReference>
         <console-locationReference id="663">
-          <x>364</x>
-          <y>683</y>
+          <x>231</x>
+          <y>681</y>
         </console-locationReference>
         <console-locationReference id="664">
-          <x>320</x>
-          <y>683</y>
+          <x>191</x>
+          <y>760</y>
         </console-locationReference>
         <console-locationReference id="662">
-          <x>276</x>
-          <y>683</y>
+          <x>191</x>
+          <y>720</y>
         </console-locationReference>
         <console-locationReference id="167">
-          <x>31</x>
-          <y>461</y>
+          <x>491</x>
+          <y>201</y>
         </console-locationReference>
         <console-locationReference id="359">
-          <x>31</x>
-          <y>461</y>
+          <x>491</x>
+          <y>201</y>
         </console-locationReference>
         <console-locationReference id="133">
-          <x>870</x>
-          <y>617</y>
+          <x>351</x>
+          <y>880</y>
         </console-locationReference>
         <console-locationReference id="69">
-          <x>947</x>
-          <y>573</y>
+          <x>431</x>
+          <y>840</y>
         </console-locationReference>
         <console-locationReference id="82">
-          <x>1024</x>
-          <y>529</y>
+          <x>591</x>
+          <y>840</y>
         </console-locationReference>
         <console-locationReference id="73">
-          <x>793</x>
-          <y>573</y>
+          <x>511</x>
+          <y>701</y>
         </console-locationReference>
         <console-locationReference id="108">
-          <x>870</x>
-          <y>529</y>
+          <x>511</x>
+          <y>790</y>
         </console-locationReference>
         <console-locationReference id="150">
-          <x>947</x>
-          <y>485</y>
+          <x>431</x>
+          <y>750</y>
         </console-locationReference>
         <console-locationReference id="83">
-          <x>1024</x>
-          <y>441</y>
+          <x>591</x>
+          <y>750</y>
         </console-locationReference>
         <console-locationReference id="104">
-          <x>793</x>
-          <y>485</y>
+          <x>351</x>
+          <y>700</y>
         </console-locationReference>
         <console-locationReference id="102">
-          <x>870</x>
-          <y>441</y>
+          <x>351</x>
+          <y>790</y>
         </console-locationReference>
         <console-locationReference id="141">
-          <x>947</x>
-          <y>397</y>
+          <x>431</x>
+          <y>660</y>
         </console-locationReference>
         <console-locationReference id="155">
-          <x>1024</x>
-          <y>353</y>
+          <x>511</x>
+          <y>520</y>
         </console-locationReference>
         <console-locationReference id="62">
-          <x>793</x>
-          <y>397</y>
+          <x>351</x>
+          <y>610</y>
         </console-locationReference>
         <console-locationReference id="129">
-          <x>870</x>
-          <y>353</y>
+          <x>511</x>
+          <y>610</y>
         </console-locationReference>
         <console-locationReference id="70">
-          <x>947</x>
-          <y>309</y>
+          <x>511</x>
+          <y>430</y>
         </console-locationReference>
         <console-locationReference id="157">
-          <x>1024</x>
-          <y>265</y>
+          <x>591</x>
+          <y>570</y>
         </console-locationReference>
         <console-locationReference id="140">
-          <x>793</x>
-          <y>309</y>
+          <x>351</x>
+          <y>520</y>
         </console-locationReference>
         <console-locationReference id="103">
-          <x>870</x>
-          <y>265</y>
+          <x>431</x>
+          <y>570</y>
         </console-locationReference>
         <console-locationReference id="80">
-          <x>947</x>
-          <y>221</y>
+          <x>591</x>
+          <y>660</y>
         </console-locationReference>
         <console-locationReference id="160">
-          <x>1024</x>
-          <y>177</y>
+          <x>591</x>
+          <y>480</y>
         </console-locationReference>
         <console-locationReference id="99">
-          <x>793</x>
-          <y>221</y>
+          <x>351</x>
+          <y>430</y>
         </console-locationReference>
         <console-locationReference id="156">
-          <x>870</x>
-          <y>177</y>
+          <x>431</x>
+          <y>480</y>
         </console-locationReference>
         <console-locationReference id="161">
-          <x>947</x>
-          <y>133</y>
+          <x>511</x>
+          <y>250</y>
         </console-locationReference>
         <console-locationReference id="158">
-          <x>1024</x>
-          <y>89</y>
+          <x>591</x>
+          <y>390</y>
         </console-locationReference>
         <console-locationReference id="41">
-          <x>793</x>
-          <y>133</y>
+          <x>431</x>
+          <y>300</y>
         </console-locationReference>
         <console-locationReference id="43">
-          <x>870</x>
-          <y>89</y>
+          <x>511</x>
+          <y>340</y>
         </console-locationReference>
         <console-locationReference id="42">
-          <x>947</x>
-          <y>45</y>
+          <x>351</x>
+          <y>341</y>
         </console-locationReference>
         <console-locationReference id="58">
-          <x>1024</x>
-          <y>-1</y>
+          <x>591</x>
+          <y>300</y>
         </console-locationReference>
         <console-locationReference id="165">
-          <x>793</x>
-          <y>45</y>
+          <x>431</x>
+          <y>390</y>
         </console-locationReference>
         <console-locationReference id="657">
-          <x>243</x>
-          <y>485</y>
+          <x>171</x>
+          <y>1071</y>
         </console-locationReference>
         <console-locationReference id="652">
-          <x>331</x>
-          <y>485</y>
+          <x>251</x>
+          <y>921</y>
         </console-locationReference>
         <console-locationReference id="656">
-          <x>243</x>
-          <y>397</y>
+          <x>171</x>
+          <y>981</y>
         </console-locationReference>
         <console-locationReference id="620">
-          <x>331</x>
-          <y>397</y>
+          <x>251</x>
+          <y>831</y>
         </console-locationReference>
         <console-locationReference id="658">
-          <x>243</x>
-          <y>309</y>
+          <x>171</x>
+          <y>891</y>
         </console-locationReference>
         <console-locationReference id="651">
-          <x>331</x>
-          <y>309</y>
+          <x>171</x>
+          <y>801</y>
         </console-locationReference>
         <console-locationReference id="123">
-          <x>606</x>
-          <y>617</y>
+          <x>5</x>
+          <y>1161</y>
         </console-locationReference>
         <console-locationReference id="149">
-          <x>683</x>
-          <y>574</y>
+          <x>86</x>
+          <y>841</y>
         </console-locationReference>
         <console-locationReference id="105">
-          <x>452</x>
-          <y>617</y>
+          <x>5</x>
+          <y>1072</y>
         </console-locationReference>
         <console-locationReference id="85">
-          <x>529</x>
-          <y>573</y>
+          <x>85</x>
+          <y>1111</y>
         </console-locationReference>
         <console-locationReference id="100">
-          <x>606</x>
-          <y>529</y>
+          <x>85</x>
+          <y>1021</y>
         </console-locationReference>
         <console-locationReference id="86">
-          <x>683</x>
-          <y>485</y>
+          <x>85</x>
+          <y>751</y>
         </console-locationReference>
         <console-locationReference id="121">
-          <x>452</x>
-          <y>529</y>
+          <x>5</x>
+          <y>982</y>
         </console-locationReference>
         <console-locationReference id="110">
-          <x>529</x>
-          <y>485</y>
+          <x>3</x>
+          <y>531</y>
         </console-locationReference>
         <console-locationReference id="93">
-          <x>606</x>
-          <y>441</y>
+          <x>85</x>
+          <y>931</y>
         </console-locationReference>
         <console-locationReference id="87">
-          <x>683</x>
-          <y>397</y>
+          <x>85</x>
+          <y>661</y>
         </console-locationReference>
         <console-locationReference id="119">
-          <x>452</x>
-          <y>441</y>
+          <x>3</x>
+          <y>891</y>
         </console-locationReference>
         <console-locationReference id="146">
-          <x>529</x>
-          <y>397</y>
+          <x>82</x>
+          <y>487</y>
         </console-locationReference>
         <console-locationReference id="124">
-          <x>606</x>
-          <y>353</y>
+          <x>85</x>
+          <y>571</y>
         </console-locationReference>
         <console-locationReference id="125">
-          <x>683</x>
-          <y>309</y>
+          <x>5</x>
+          <y>801</y>
         </console-locationReference>
         <console-locationReference id="84">
-          <x>452</x>
-          <y>353</y>
+          <x>5</x>
+          <y>443</y>
         </console-locationReference>
         <console-locationReference id="94">
-          <x>529</x>
-          <y>310</y>
+          <x>82</x>
+          <y>400</y>
         </console-locationReference>
         <console-locationReference id="137">
-          <x>606</x>
-          <y>265</y>
+          <x>3</x>
+          <y>621</y>
         </console-locationReference>
         <console-locationReference id="131">
-          <x>683</x>
-          <y>221</y>
+          <x>5</x>
+          <y>711</y>
         </console-locationReference>
         <console-locationReference id="136">
-          <x>452</x>
-          <y>265</y>
+          <x>5</x>
+          <y>355</y>
         </console-locationReference>
         <console-locationReference id="101">
-          <x>529</x>
-          <y>221</y>
+          <x>82</x>
+          <y>311</y>
         </console-locationReference>
         <console-locationReference id="88">
-          <x>606</x>
-          <y>177</y>
+          <x>1</x>
+          <y>261</y>
         </console-locationReference>
         <console-locationReference id="28">
-          <x>683</x>
-          <y>133</y>
+          <x>161</x>
+          <y>81</y>
         </console-locationReference>
         <console-locationReference id="98">
-          <x>452</x>
+          <x>1</x>
           <y>177</y>
         </console-locationReference>
         <console-locationReference id="116">
-          <x>529</x>
+          <x>78</x>
           <y>133</y>
         </console-locationReference>
         <console-locationReference id="143">
-          <x>606</x>
-          <y>89</y>
+          <x>82</x>
+          <y>221</y>
         </console-locationReference>
         <console-locationReference id="60">
-          <x>683</x>
-          <y>45</y>
+          <x>241</x>
+          <y>131</y>
         </console-locationReference>
         <console-locationReference id="81">
-          <x>452</x>
+          <x>1</x>
           <y>89</y>
         </console-locationReference>
         <console-locationReference id="46">
-          <x>529</x>
+          <x>78</x>
           <y>45</y>
         </console-locationReference>
         <console-locationReference id="44">
-          <x>452</x>
+          <x>1</x>
           <y>1</y>
         </console-locationReference>
         <console-locationReference id="173">
-          <x>135</x>
-          <y>385</y>
+          <x>581</x>
+          <y>1051</y>
         </console-locationReference>
         <console-locationReference id="667">
-          <x>288</x>
-          <y>242</y>
+          <x>190</x>
+          <y>611</y>
         </console-locationReference>
         <console-locationReference id="216">
-          <x>180</x>
-          <y>461</y>
+          <x>640</x>
+          <y>201</y>
         </console-locationReference>
         <console-locationReference id="120079">
-          <x>331</x>
-          <y>727</y>
+          <x>251</x>
+          <y>1101</y>
         </console-locationReference>
       </references>
       <messages/>
       <style>darkconsole</style>
-      <zoom>0.89</zoom>
+      <zoom>1.5</zoom>
       <skin>aeolian-skinner_7.0.zip</skin>
+      <screen>\Display0</screen>
     </console>
     <consoleSwitcher id="518">
       <name>L</name>
@@ -19783,7 +18900,6 @@ name = Y</description>
         <reference id="271"/>
         <reference id="412"/>
         <reference id="240"/>
-        <reference id="404"/>
         <reference id="406"/>
         <reference id="409"/>
         <reference id="327"/>
@@ -19791,7 +18907,6 @@ name = Y</description>
         <reference id="198"/>
         <reference id="35"/>
         <reference id="413"/>
-        <reference id="414"/>
         <reference id="423"/>
         <reference id="599"/>
       </references>
@@ -19945,7 +19060,7 @@ name = Y</description>
       <messages/>
       <style>coupler-tablet-red</style>
       <zoom>0.8</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
     </activator>
     <combination id="598">
@@ -20581,11 +19696,11 @@ pitch = 8&apos;</description>
         <reference id="617"/>
       </references>
       <messages>
-        <keyboard-pressKey>equal 159, lessEqual 96 | greaterEqual 35 | get pitch, greater 0 | get velocity</keyboard-pressKey>
-        <keyboard-releaseKey>equal 159, lessEqual 96 | greaterEqual 35 | get pitch, equal 0</keyboard-releaseKey>
-        <keyboard-releaseKey>equal 143, lessEqual 96 | greaterEqual 35 | get pitch, </keyboard-releaseKey>
+        <keyboard-pressKey>equal 159, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
+        <keyboard-releaseKey>equal 159, lessEqual 96 | greaterEqual 36 | get pitch, equal 0</keyboard-releaseKey>
+        <keyboard-releaseKey>equal 143, lessEqual 96 | greaterEqual 36 | get pitch, </keyboard-releaseKey>
       </messages>
-      <input>2- mioXC MIDI IN</input>
+      <input>mioXC</input>
     </keyboard>
     <coupler id="623">
       <name>TR_+1_SO</name>
@@ -21380,7 +20495,7 @@ name = SOLO  (Expressive)</description>
       <zoom>0.85</zoom>
       <duration>-1</duration>
       <threshold>0.1</threshold>
-      <value>1.0</value>
+      <value>0.118644066</value>
     </continuousFilter>
     <switchFilter id="660">
       <name>so.tremulant</name>
@@ -21701,7 +20816,6 @@ name = SOLO  (Expressive)</description>
       <description></description>
       <references>
         <reference id="240"/>
-        <reference id="404"/>
         <reference id="406"/>
         <reference id="409"/>
         <reference id="327"/>
@@ -21719,7 +20833,6 @@ name = SOLO  (Expressive)</description>
         <reference id="198"/>
         <reference id="35"/>
         <reference id="413"/>
-        <reference id="414"/>
         <reference id="423"/>
         <reference id="445"/>
         <reference id="552"/>
@@ -21928,7 +21041,7 @@ name = SOLO  (Expressive)</description>
       <zoom>0.9</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.6526316</value>
+      <value>0.2</value>
       <parameter>ROOM</parameter>
     </fluidsynth.reverb>
     <fluidsynth.reverb id="120008">
@@ -21940,7 +21053,7 @@ name = SOLO  (Expressive)</description>
       <zoom>0.9000001</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.16842106</value>
+      <value>0.15789473</value>
       <parameter>DAMPING</parameter>
     </fluidsynth.reverb>
     <fluidsynth.reverb id="120009">
@@ -21952,7 +21065,7 @@ name = SOLO  (Expressive)</description>
       <zoom>0.90000004</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.31578946</value>
+      <value>0.3968254</value>
       <parameter>LEVEL</parameter>
     </fluidsynth.reverb>
     <fluidsynth.reverb id="120010">
@@ -21964,7 +21077,7 @@ name = SOLO  (Expressive)</description>
       <zoom>0.9000001</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.24210526</value>
+      <value>0.21052632</value>
       <parameter>WIDTH</parameter>
     </fluidsynth.reverb>
     <combination id="120011">
@@ -22073,13 +21186,13 @@ name = SOLO  (Expressive)</description>
           <value>0.24210526</value>
         </combination-continuousReference>
         <combination-continuousReference id="120007">
-          <value>0.8</value>
+          <value>0.6526316</value>
         </combination-continuousReference>
       </references>
       <messages/>
       <style>piston</style>
       <zoom>1.0</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <combination id="120017">
@@ -22121,7 +21234,7 @@ name = SOLO  (Expressive)</description>
       <zoom>1.0</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.41666666</value>
+      <value>0.25</value>
     </regulator>
     <incrementer id="120025">
       <name>Reverberation Incrementer [ - ]</name>
@@ -22257,7 +21370,8 @@ name = SOLO  (Expressive)</description>
         <reference id="120045"/>
       </references>
       <messages/>
-      <input>jOrgan Midi Merger</input>
+      <input>mioXC</input>
+      <output>jOrgan Null</output>
     </connector>
     <continuousFilter id="120041">
       <name>STOP VOLUME</name>
@@ -22310,7 +21424,7 @@ model = ACO 4P/104 7.0 </description>
       <messages/>
       <style>coupler-tablet-red</style>
       <zoom>0.79999995</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>-1</duration>
       <whenActivated>ACTIVATE</whenActivated>
       <whenDeactivated>DEACTIVATE</whenDeactivated>
@@ -22385,7 +21499,8 @@ j = j</description>
         <reference id="88434"/>
       </references>
       <messages/>
-      <output>USB2.0-MIDI #21</output>
+      <input>mioXC</input>
+      <output>jOrgan Null</output>
     </connector>
     <continuousFilter id="88423">
       <name>Edit A</name>
@@ -22664,7 +21779,7 @@ j = j</description>
         <switchFilter-engaged>set 176, set 1, set 0</switchFilter-engaged>
       </messages>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>797</duration>
     </switchFilter>
     <switchFilter id="88441">
@@ -22766,7 +21881,7 @@ j = j</description>
         <switchFilter-engaged>set 176, set 1, set 0</switchFilter-engaged>
       </messages>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>318</duration>
     </switchFilter>
     <switchFilter id="88449">

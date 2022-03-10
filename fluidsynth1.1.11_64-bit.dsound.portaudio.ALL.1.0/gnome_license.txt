@@ -1,0 +1,3 @@
+The Gnome project [http://www.gnome.org/] is licensed under
+GNU GENERAL PUBLIC LICENSE [http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html]
+and under CREATIVE COMMONS Attribution 3.0 Unported (CC BY 3.0) [http://creativecommons.org/licenses/by/3.0/]

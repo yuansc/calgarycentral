@@ -3810,14 +3810,13 @@ pitch = 8&apos;</description>
     </stop>
     <label id="308">
       <name>STRATMAN  ACO 4P/104 7.0</name>
-      <description>builder = Aeolian-Skinner Organ Co.
-style = Opus 150-A, Cathedral of St. John the Divine
-model =  ACO SJD 7.0
+      <description>builder = Seventh-day Adventist
+      style =    Calgary Central Church  Alberta, Canada
 </description>
       <references/>
       <messages/>
       <style>nameplate</style>
-      <zoom>0.8</zoom>
+      <zoom>0.6</zoom>
     </label>
     <rank id="226">
       <name>GT.11.Octave 4&apos;</name>
@@ -18257,7 +18256,6 @@ name = 1</description>
         <reference id="120072"/>
         <reference id="120071"/>
         <reference id="120070"/>
-        <reference id="120164"/>
         <reference id="120210"/>
         <reference id="120211"/>
         <reference id="120191"/>
@@ -19345,7 +19343,7 @@ model = ACO 4P/104 7.0 </description>
       </references>
       <messages/>
       <style>jOrgan_Panic_Switch</style>
-      <zoom>0.71</zoom>
+      <zoom>0.55</zoom>
       <active>false</active>
       <duration>300</duration>
     </tools.panicSwitch>
@@ -22160,14 +22158,6 @@ name = 6</description>
       <active>false</active>
       <duration>200</duration>
     </combination>
-    <label id="120164">
-      <name>CHOIR</name>
-      <description></description>
-      <references/>
-      <messages/>
-      <style>label</style>
-      <zoom>0.5999999</zoom>
-    </label>
     <coupler id="120167">
       <name>16&apos; Manual 32&apos; Pedal Silent (PD Coupler)</name>
       <description></description>
@@ -23375,8 +23365,8 @@ name = .RIGHT
 </description>
       <references>
         <console-locationReference id="170">
-          <x>601</x>
-          <y>1131</y>
+          <x>381</x>
+          <y>1211</y>
         </console-locationReference>
         <console-locationReference id="411">
           <x>161</x>
@@ -23399,24 +23389,24 @@ name = .RIGHT
           <y>1131</y>
         </console-locationReference>
         <console-locationReference id="303">
-          <x>581</x>
-          <y>1091</y>
+          <x>571</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="343">
-          <x>551</x>
-          <y>1091</y>
+          <x>541</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="407">
-          <x>521</x>
-          <y>1091</y>
+          <x>511</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="405">
-          <x>491</x>
-          <y>1091</y>
+          <x>481</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="401">
-          <x>461</x>
-          <y>1091</y>
+          <x>451</x>
+          <y>1131</y>
         </console-locationReference>
         <console-locationReference id="477">
           <x>351</x>
@@ -23524,15 +23514,15 @@ name = .RIGHT
         </console-locationReference>
         <console-locationReference id="160">
           <x>521</x>
-          <y>401</y>
+          <y>581</y>
         </console-locationReference>
         <console-locationReference id="133">
           <x>441</x>
           <y>901</y>
         </console-locationReference>
         <console-locationReference id="150">
-          <x>361</x>
-          <y>1031</y>
+          <x>441</x>
+          <y>991</y>
         </console-locationReference>
         <console-locationReference id="73">
           <x>361</x>
@@ -23540,7 +23530,7 @@ name = .RIGHT
         </console-locationReference>
         <console-locationReference id="108">
           <x>521</x>
-          <y>851</y>
+          <y>941</y>
         </console-locationReference>
         <console-locationReference id="129">
           <x>361</x>
@@ -23548,7 +23538,7 @@ name = .RIGHT
         </console-locationReference>
         <console-locationReference id="70">
           <x>521</x>
-          <y>761</y>
+          <y>851</y>
         </console-locationReference>
         <console-locationReference id="102">
           <x>441</x>
@@ -23556,7 +23546,7 @@ name = .RIGHT
         </console-locationReference>
         <console-locationReference id="103">
           <x>521</x>
-          <y>671</y>
+          <y>761</y>
         </console-locationReference>
         <console-locationReference id="140">
           <x>441</x>
@@ -23568,7 +23558,7 @@ name = .RIGHT
         </console-locationReference>
         <console-locationReference id="82">
           <x>521</x>
-          <y>941</y>
+          <y>1031</y>
         </console-locationReference>
         <console-locationReference id="83">
           <x>601</x>
@@ -23588,7 +23578,7 @@ name = .RIGHT
         </console-locationReference>
         <console-locationReference id="156">
           <x>521</x>
-          <y>581</y>
+          <y>671</y>
         </console-locationReference>
         <console-locationReference id="41">
           <x>521</x>
@@ -23603,12 +23593,12 @@ name = .RIGHT
           <y>451</y>
         </console-locationReference>
         <console-locationReference id="33">
-          <x>441</x>
-          <y>991</y>
+          <x>361</x>
+          <y>1031</y>
         </console-locationReference>
         <console-locationReference id="171">
           <x>381</x>
-          <y>1131</y>
+          <y>1181</y>
         </console-locationReference>
         <console-locationReference id="49">
           <x>551</x>
@@ -23647,8 +23637,8 @@ name = .RIGHT
           <y>11</y>
         </console-locationReference>
         <console-locationReference id="120069">
-          <x>451</x>
-          <y>351</y>
+          <x>461</x>
+          <y>361</y>
         </console-locationReference>
         <console-locationReference id="120073">
           <x>361</x>
@@ -23675,12 +23665,12 @@ name = .RIGHT
           <y>541</y>
         </console-locationReference>
         <console-locationReference id="120079">
-          <x>451</x>
-          <y>251</y>
+          <x>441</x>
+          <y>261</y>
         </console-locationReference>
         <console-locationReference id="120081">
-          <x>451</x>
-          <y>161</y>
+          <x>441</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="120085">
           <x>161</x>
@@ -23731,8 +23721,8 @@ name = .RIGHT
           <y>231</y>
         </console-locationReference>
         <console-locationReference id="120097">
-          <x>531</x>
-          <y>201</y>
+          <x>521</x>
+          <y>211</y>
         </console-locationReference>
         <console-locationReference id="120099">
           <x>161</x>
@@ -23743,8 +23733,8 @@ name = .RIGHT
           <y>191</y>
         </console-locationReference>
         <console-locationReference id="120101">
-          <x>541</x>
-          <y>161</y>
+          <x>531</x>
+          <y>171</y>
         </console-locationReference>
         <console-locationReference id="120102">
           <x>351</x>
@@ -23755,8 +23745,8 @@ name = .RIGHT
           <y>511</y>
         </console-locationReference>
         <console-locationReference id="120080">
-          <x>531</x>
-          <y>291</y>
+          <x>521</x>
+          <y>301</y>
         </console-locationReference>
         <console-locationReference id="69">
           <x>241</x>
@@ -23795,16 +23785,16 @@ name = .RIGHT
           <y>471</y>
         </console-locationReference>
         <console-locationReference id="143">
-          <x>611</x>
-          <y>241</y>
+          <x>601</x>
+          <y>251</y>
         </console-locationReference>
         <console-locationReference id="120142">
           <x>241</x>
           <y>631</y>
         </console-locationReference>
         <console-locationReference id="120143">
-          <x>611</x>
-          <y>151</y>
+          <x>601</x>
+          <y>161</y>
         </console-locationReference>
         <console-locationReference id="120147">
           <x>601</x>
@@ -23827,28 +23817,24 @@ name = .RIGHT
           <y>1131</y>
         </console-locationReference>
         <console-locationReference id="120188">
-          <x>611</x>
-          <y>1091</y>
-        </console-locationReference>
-        <console-locationReference id="120155">
-          <x>181</x>
-          <y>501</y>
-        </console-locationReference>
-        <console-locationReference id="120164">
-          <x>511</x>
+          <x>601</x>
           <y>1131</y>
         </console-locationReference>
+        <console-locationReference id="120155">
+          <x>171</x>
+          <y>501</y>
+        </console-locationReference>
         <console-locationReference id="308">
-          <x>401</x>
-          <y>1171</y>
+          <x>21</x>
+          <y>1191</y>
         </console-locationReference>
         <console-locationReference id="120052">
-          <x>21</x>
-          <y>1171</y>
+          <x>511</x>
+          <y>1181</y>
         </console-locationReference>
         <console-locationReference id="400">
-          <x>501</x>
-          <y>351</y>
+          <x>651</x>
+          <y>361</y>
         </console-locationReference>
         <console-locationReference id="120216">
           <x>11</x>

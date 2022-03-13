@@ -1,0 +1,42 @@
+﻿<backend>
+  <name>FluidSynth - PortAudio_ALL (64-bit)</name>
+  <description>contents:
+
+· FluidSynth 1.1.11 release built with Dsound and PortAudio (64-bit)
+· PortAudio 19 built with ASIO, WASAPI, and WDM Kernel Streaming (64-bit)
+· GLib 2.0
+
+ASIO is a trademark and software of Steinberg Media Technologies GmbH.
+ASIO Interface Technology by Steinberg Media Technologies GmbH.
+
+This version of Fluidsynth is released under the GNU Lesser General Public License version 3
+  
+  </description>
+  <version>1.0</version>
+  <maintainer>Graham Goode (ggoode.sa@gmail.com)</maintainer>
+  <library>libintl-8.dll</library>
+  <library>libglib-2.0-0.dll</library>
+  <library>libgthread-2.0-0.dll</library>
+  <library>portaudio_x64.dll</library>
+  <library>libfluidsynth.dll</library>
+    <link>
+	<text>Gnome library</text>
+	<url>http://developer.gnome.org/glib/</url>
+	<icon>gnome_24.png</icon>
+  </link>
+  <link>
+	<text>Fluidsynth</text>
+	<url>http://fluidsynth.sf.net</url>
+	<icon>fluidsynth_24.png</icon>
+  </link>
+  <link>
+     <text>PortAudio</text> 
+     <url>http://www.portaudio.com</url> 
+     <icon>portaudio_logo_24.png</icon> 
+  </link>
+  <link>
+  <text>ASIO</text> 
+  <url>http://www.steinberg.net</url> 
+  <icon>Asio_logo_24.png</icon> 
+  </link>
+</backend>

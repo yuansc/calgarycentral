@@ -589,9 +589,6 @@ name = 7</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -677,6 +674,18 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -1504,9 +1513,6 @@ name = 6</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -1592,6 +1598,18 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -2082,6 +2100,12 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120105">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -2631,9 +2655,6 @@ name = 1</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -2721,6 +2742,18 @@ name = 1</description>
         <combination-switchReference id="120148">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 72, equal 0</switch-activate>
@@ -2733,7 +2766,9 @@ name = 1</description>
     <activator id="241">
       <name>0  SEQUENCER</name>
       <description>COMBINATION SEQUENCER ACTIVATOR BLANK</description>
-      <references/>
+      <references>
+        <reference id="120220"/>
+      </references>
       <messages/>
       <zoom>1.0</zoom>
       <active>false</active>
@@ -2767,6 +2802,7 @@ name = 1</description>
         <reference id="243"/>
         <reference id="244"/>
         <reference id="120073"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -3121,6 +3157,15 @@ name = 1</description>
         <combination-switchReference id="120142">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 104, equal 0</switch-activate>
@@ -3319,6 +3364,12 @@ name = 4</description>
         <combination-switchReference id="120105">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 99, equal 0</switch-activate>
@@ -3331,7 +3382,9 @@ name = 4</description>
     <activator id="244">
       <name>Cresc Warning</name>
       <description></description>
-      <references/>
+      <references>
+        <reference id="120220"/>
+      </references>
       <messages/>
       <style>warningNameless</style>
       <zoom>0.61</zoom>
@@ -3711,6 +3764,12 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -4096,6 +4155,15 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120142">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -4597,9 +4665,6 @@ name = 5</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -4685,6 +4750,18 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -4777,6 +4854,7 @@ name = 5</description>
         <reference id="326"/>
         <reference id="244"/>
         <reference id="120073"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -5235,9 +5313,6 @@ name = 4</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>true</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -5323,6 +5398,18 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -5779,7 +5866,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.048387095</value>
+      <value>0.0</value>
     </continuousFilter>
     <combination id="343">
       <name>CH_4</name>
@@ -5878,6 +5965,12 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -6132,6 +6225,7 @@ pitch = 8&apos;</description>
         <reference id="243"/>
         <reference id="244"/>
         <reference id="120077"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -6468,6 +6562,15 @@ name = 2</description>
         <combination-switchReference id="120142">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 105, equal 0</switch-activate>
@@ -6603,6 +6706,9 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="63">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -6928,7 +7034,7 @@ pitch = 8&apos;
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.25</value>
+      <value>0.85</value>
     </regulator>
     <combination id="408">
       <name>GT_3</name>
@@ -7015,6 +7121,15 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120142">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -7337,6 +7452,9 @@ name = 1</description>
         <combination-switchReference id="63">
           <active>false</active>
         </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 87, equal 0</switch-activate>
@@ -7349,7 +7467,9 @@ name = 1</description>
     <activator id="421">
       <name>0  Cresc_1</name>
       <description>CRESCENDO ACTIVATOR</description>
-      <references/>
+      <references>
+        <reference id="120220"/>
+      </references>
       <messages/>
       <zoom>1.0</zoom>
       <active>true</active>
@@ -7881,13 +8001,22 @@ name = 8  </description>
         <combination-switchReference id="120148">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="445">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="158">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -8332,6 +8461,12 @@ name = 3</description>
         <combination-switchReference id="120105">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 98, equal 0</switch-activate>
@@ -8572,6 +8707,9 @@ name = 2</description>
         <combination-switchReference id="63">
           <active>false</active>
         </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 85, equal 0</switch-activate>
@@ -8758,6 +8896,9 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="63">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -9404,6 +9545,12 @@ name = 1</description>
         <combination-switchReference id="120105">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 96, equal 0</switch-activate>
@@ -9850,6 +9997,12 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -10742,9 +10895,6 @@ name = 8</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -10830,6 +10980,18 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -11736,10 +11898,6 @@ name = *Main Console
           <x>731</x>
           <y>991</y>
         </console-locationReference>
-        <console-locationReference id="120150">
-          <x>861</x>
-          <y>991</y>
-        </console-locationReference>
         <console-locationReference id="120151">
           <x>781</x>
           <y>991</y>
@@ -11799,6 +11957,14 @@ name = *Main Console
         <console-locationReference id="120216">
           <x>331</x>
           <y>151</y>
+        </console-locationReference>
+        <console-locationReference id="120218">
+          <x>561</x>
+          <y>1151</y>
+        </console-locationReference>
+        <console-locationReference id="120220">
+          <x>861</x>
+          <y>991</y>
         </console-locationReference>
       </references>
       <messages/>
@@ -12024,7 +12190,6 @@ name = Console</description>
         <reference id="120077"/>
         <reference id="120073"/>
         <reference id="120151"/>
-        <reference id="120150"/>
         <reference id="120171"/>
         <reference id="120178"/>
         <reference id="120176"/>
@@ -12603,9 +12768,6 @@ name = 2</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -12691,6 +12853,18 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -12936,6 +13110,7 @@ name = CHOIR  TO  GREAT  16&apos;</description>
         <reference id="243"/>
         <reference id="244"/>
         <reference id="120073"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -13051,6 +13226,9 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="63">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -14035,6 +14213,15 @@ name = 5</description>
         <combination-switchReference id="120142">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 108, equal 0</switch-activate>
@@ -14111,7 +14298,7 @@ pitch = 8&apos;</description>
         <reference id="326"/>
         <reference id="244"/>
         <reference id="120073"/>
-        <reference id="120150"/>
+        <reference id="120220"/>
       </references>
       <messages>
         <switch-deactivate>equal 202, equal 52, equal 0</switch-deactivate>
@@ -14548,6 +14735,12 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -15001,9 +15194,6 @@ name = 3</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="120150">
-          <active>false</active>
-        </combination-switchReference>
         <combination-switchReference id="120146">
           <active>false</active>
         </combination-switchReference>
@@ -15089,6 +15279,18 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -15886,6 +16088,12 @@ name = 5</description>
         <combination-switchReference id="120105">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 100, equal 0</switch-activate>
@@ -15928,6 +16136,7 @@ name = 5</description>
         <reference id="326"/>
         <reference id="244"/>
         <reference id="120073"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -16007,6 +16216,7 @@ pitch = 4&apos;
         <reference id="128"/>
         <reference id="326"/>
         <reference id="244"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -16202,6 +16412,7 @@ pitch = 8&apos;</description>
         <reference id="326"/>
         <reference id="244"/>
         <reference id="120073"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -16400,6 +16611,12 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -16685,7 +16902,6 @@ pitch = III</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120150"/>
         <reference id="120203"/>
         <reference id="120202"/>
         <reference id="120199"/>
@@ -16698,6 +16914,7 @@ pitch = III</description>
         <reference id="120195"/>
         <reference id="120196"/>
         <reference id="120193"/>
+        <reference id="120218"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -17267,6 +17484,7 @@ name = Y</description>
         <reference id="546"/>
         <reference id="360"/>
         <reference id="528"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <style>coupler-tablet-red</style>
@@ -17322,6 +17540,7 @@ name = Y</description>
       <references>
         <reference id="555"/>
         <reference id="554"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <zoom>1.0</zoom>
@@ -17364,6 +17583,7 @@ name = Y</description>
         <reference id="88442"/>
         <reference id="88447"/>
         <reference id="88453"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <style>coupler-tablet-red</style>
@@ -17546,7 +17766,6 @@ name = Y</description>
         <reference id="120139"/>
         <reference id="120138"/>
         <reference id="120140"/>
-        <reference id="120150"/>
       </references>
       <messages/>
     </group>
@@ -17860,6 +18079,12 @@ name = 2</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 97, equal 0</switch-activate>
@@ -17939,6 +18164,12 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120096">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -18022,6 +18253,12 @@ name = 3</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 98, equal 0</switch-activate>
@@ -18103,6 +18340,12 @@ name = 5</description>
         <combination-switchReference id="120096">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 100, equal 0</switch-activate>
@@ -18182,6 +18425,12 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120096">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -18418,7 +18667,7 @@ name = 1</description>
       <zoom>0.9</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.23076923</value>
+      <value>0.60096157</value>
       <parameter>ROOM</parameter>
     </fluidsynth.reverb>
     <fluidsynth.reverb id="120008">
@@ -18430,7 +18679,7 @@ name = 1</description>
       <zoom>0.9000001</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.15789473</value>
+      <value>0.16842106</value>
       <parameter>DAMPING</parameter>
     </fluidsynth.reverb>
     <fluidsynth.reverb id="120009">
@@ -18442,7 +18691,7 @@ name = 1</description>
       <zoom>0.90000004</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.3968254</value>
+      <value>0.31578946</value>
       <parameter>LEVEL</parameter>
     </fluidsynth.reverb>
     <fluidsynth.reverb id="120010">
@@ -18454,7 +18703,7 @@ name = 1</description>
       <zoom>0.9000001</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.21052632</value>
+      <value>0.24210526</value>
       <parameter>WIDTH</parameter>
     </fluidsynth.reverb>
     <combination id="120011">
@@ -18569,7 +18818,7 @@ name = 1</description>
       <messages/>
       <style>piston</style>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>0</duration>
     </combination>
     <combination id="120017">
@@ -18611,7 +18860,7 @@ name = 1</description>
       <zoom>1.0</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.25</value>
+      <value>0.41666666</value>
     </regulator>
     <incrementer id="120025">
       <name>Reverberation Incrementer [ - ]</name>
@@ -19242,7 +19491,7 @@ model = ACO 4P/104 7.0 </description>
         <switchFilter-engaged>set 176, set 1, set 0</switchFilter-engaged>
       </messages>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>318</duration>
     </switchFilter>
     <switchFilter id="88449">
@@ -19254,7 +19503,7 @@ model = ACO 4P/104 7.0 </description>
       </messages>
       <style>warningNameless</style>
       <zoom>0.4999999</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>70</duration>
     </switchFilter>
     <synchronizer id="88450">
@@ -19594,10 +19843,6 @@ This uses the MIDI modulation code for tremulant depth.</description>
           <x>46</x>
           <y>592</y>
         </console-locationReference>
-        <console-locationReference id="120025">
-          <x>40</x>
-          <y>363</y>
-        </console-locationReference>
         <console-locationReference id="88437">
           <x>45</x>
           <y>590</y>
@@ -19709,6 +19954,10 @@ This uses the MIDI modulation code for tremulant depth.</description>
         <console-locationReference id="120070">
           <x>70</x>
           <y>300</y>
+        </console-locationReference>
+        <console-locationReference id="120025">
+          <x>40</x>
+          <y>363</y>
         </console-locationReference>
         <console-locationReference id="120072">
           <x>73</x>
@@ -21761,19 +22010,6 @@ pitch = 8&apos;</description>
       <transpose>0</transpose>
       <velocity>0</velocity>
     </coupler>
-    <switchFilter id="120150">
-      <name>STATE  TRUMP.  MASTER</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 7, set 127</switchFilter-engaged>
-        <switchFilter-disengaged>set 176, set 7, set 0</switchFilter-disengaged>
-      </messages>
-      <style>coupler-red_tablet</style>
-      <zoom>0.79999995</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
     <stop id="120151">
       <name>pd.ST. TRUMP. ON PEDAL  8&apos;</name>
       <description>CHOIR STOP
@@ -21864,6 +22100,12 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120096">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -22035,6 +22277,9 @@ name = 6</description>
         <combination-switchReference id="63">
           <active>false</active>
         </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 90, equal 0</switch-activate>
@@ -22149,6 +22394,12 @@ name = 6</description>
         <combination-switchReference id="120105">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 101, equal 0</switch-activate>
@@ -22241,6 +22492,7 @@ name = 6</description>
         <reference id="120167"/>
         <reference id="120169"/>
         <reference id="120184"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <style>coupler</style>
@@ -22327,6 +22579,7 @@ name = 6</description>
         <reference id="120172"/>
         <reference id="120174"/>
         <reference id="120177"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <style>coupler</style>
@@ -22358,6 +22611,7 @@ name = 6</description>
         <reference id="120180"/>
         <reference id="120184"/>
         <reference id="120204"/>
+        <reference id="120220"/>
       </references>
       <messages/>
       <style>coupler</style>
@@ -22521,6 +22775,15 @@ name = 6</description>
         <combination-switchReference id="120142">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="120216">
+          <value>0.0</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120157">
+          <active>true</active>
+        </combination-switchReference>
+        <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 109, equal 0</switch-activate>
@@ -22627,6 +22890,12 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-continuousReference id="120218">
+          <value>0.7032258</value>
+        </combination-continuousReference>
+        <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -23800,10 +24069,6 @@ name = .RIGHT
           <x>601</x>
           <y>11</y>
         </console-locationReference>
-        <console-locationReference id="120150">
-          <x>651</x>
-          <y>11</y>
-        </console-locationReference>
         <console-locationReference id="120152">
           <x>277</x>
           <y>470</y>
@@ -23843,6 +24108,14 @@ name = .RIGHT
         <console-locationReference id="659">
           <x>11</x>
           <y>171</y>
+        </console-locationReference>
+        <console-locationReference id="120218">
+          <x>521</x>
+          <y>411</y>
+        </console-locationReference>
+        <console-locationReference id="120220">
+          <x>651</x>
+          <y>11</y>
         </console-locationReference>
       </references>
       <messages/>
@@ -24013,6 +24286,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
         <reference id="491"/>
         <reference id="476"/>
         <reference id="120219"/>
+        <reference id="120220"/>
       </references>
       <messages/>
     </group>
@@ -24200,7 +24474,7 @@ function =  VOLUME</description>
       <zoom>0.75</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.0</value>
+      <value>0.7032258</value>
     </continuousFilter>
     <rank id="120219">
       <name>CH.XX.Imperial Trumpet 16,8,4</name>
@@ -24221,5 +24495,26 @@ function =  VOLUME</description>
       <channel>notEqual 9</channel>
       <delay>10</delay>
     </rank>
+    <coupler id="120220">
+      <name>STATE  TRUMP.  MASTER</name>
+      <description></description>
+      <references>
+        <reference id="160"/>
+        <reference id="120142"/>
+        <reference id="120151"/>
+        <reference id="120143"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <style>coupler-red_tablet</style>
+      <zoom>0.79999995</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
   </elements>
 </organ>

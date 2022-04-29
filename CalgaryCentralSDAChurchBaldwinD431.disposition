@@ -179,7 +179,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
           <active>false</active>
@@ -209,22 +209,22 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="132">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -245,7 +245,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="89">
           <active>false</active>
@@ -287,7 +287,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="135">
           <active>false</active>
@@ -299,16 +299,16 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="117">
           <active>false</active>
@@ -317,7 +317,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="114">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="106">
           <active>false</active>
@@ -326,7 +326,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
@@ -344,16 +344,16 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="68">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="39">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="40">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -380,7 +380,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120106">
           <active>false</active>
@@ -398,7 +398,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -416,7 +416,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -446,7 +446,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="101">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -455,22 +455,22 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="88">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
           <active>false</active>
@@ -479,7 +479,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="37">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="36">
           <active>false</active>
@@ -512,7 +512,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="140">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="133">
           <active>false</active>
@@ -524,13 +524,13 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="103">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -539,7 +539,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="83">
           <active>false</active>
@@ -548,7 +548,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
@@ -563,7 +563,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -659,7 +659,7 @@ name = 7</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120105">
           <active>false</active>
@@ -683,7 +683,7 @@ name = 7</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -1103,7 +1103,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
           <active>false</active>
@@ -1133,7 +1133,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
@@ -1142,13 +1142,13 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -1169,7 +1169,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="89">
           <active>false</active>
@@ -1211,7 +1211,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="135">
           <active>false</active>
@@ -1223,7 +1223,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
@@ -1232,7 +1232,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="117">
           <active>false</active>
@@ -1241,7 +1241,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="114">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="106">
           <active>false</active>
@@ -1250,7 +1250,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
@@ -1277,7 +1277,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -1304,7 +1304,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120106">
           <active>false</active>
@@ -1322,7 +1322,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -1340,7 +1340,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -1379,22 +1379,22 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="88">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
           <active>false</active>
@@ -1403,7 +1403,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="37">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="36">
           <active>false</active>
@@ -1424,7 +1424,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="50">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="49">
           <active>false</active>
@@ -1448,13 +1448,13 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="103">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -1463,7 +1463,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="83">
           <active>false</active>
@@ -1472,7 +1472,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
@@ -1487,7 +1487,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -1583,7 +1583,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120105">
           <active>false</active>
@@ -1607,7 +1607,7 @@ name = 6</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -2070,7 +2070,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="91">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="90">
           <active>false</active>
@@ -2239,7 +2239,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="147">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="154">
           <active>false</active>
@@ -2248,7 +2248,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
@@ -2419,7 +2419,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -2458,13 +2458,13 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="149">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="28">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -2545,7 +2545,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="37">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="36">
           <active>false</active>
@@ -2587,7 +2587,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="108">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="104">
           <active>false</active>
@@ -2596,7 +2596,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -2608,13 +2608,13 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="83">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
@@ -2749,7 +2749,7 @@ name = 1</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -3113,10 +3113,10 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="116">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="105">
           <active>false</active>
@@ -3128,7 +3128,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="100">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="98">
           <active>false</active>
@@ -3140,7 +3140,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="85">
           <active>false</active>
@@ -3158,12 +3158,42 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120216">
-          <value>0.95238096</value>
+          <value>0.8267717</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120147">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120135">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120133">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="38">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="36">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="37">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="46">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="53">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="51">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="52">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -3302,22 +3332,22 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="134">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="132">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -3326,10 +3356,10 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="96">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="95">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="91">
           <active>false</active>
@@ -3677,7 +3707,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120077">
           <active>false</active>
@@ -3698,7 +3728,7 @@ name = 5</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="161">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="156">
           <active>false</active>
@@ -3707,10 +3737,10 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="141">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="140">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="133">
           <active>false</active>
@@ -3719,7 +3749,7 @@ name = 5</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="108">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="104">
           <active>true</active>
@@ -3728,7 +3758,7 @@ name = 5</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -3740,19 +3770,19 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="43">
           <active>false</active>
@@ -4089,7 +4119,7 @@ pitch = 32&apos;
 name = 4</description>
       <references>
         <combination-switchReference id="84">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="28">
           <active>false</active>
@@ -4137,7 +4167,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -4155,7 +4185,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="81">
           <active>false</active>
@@ -4170,12 +4200,39 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120216">
-          <value>1.0</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="52">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="51">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="53">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="46">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="37">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="36">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="38">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120133">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120135">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -4267,7 +4324,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
           <active>false</active>
@@ -4297,7 +4354,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
@@ -4333,7 +4390,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="89">
           <active>false</active>
@@ -4366,7 +4423,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="54">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="55">
           <active>false</active>
@@ -4393,7 +4450,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="122">
           <active>false</active>
@@ -4414,7 +4471,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
@@ -4468,7 +4525,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120106">
           <active>false</active>
@@ -4486,7 +4543,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -4504,7 +4561,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -4543,7 +4600,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
           <active>false</active>
@@ -4552,13 +4609,13 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
           <active>false</active>
@@ -4567,7 +4624,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="37">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="36">
           <active>false</active>
@@ -4588,7 +4645,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="50">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="49">
           <active>false</active>
@@ -4609,7 +4666,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="108">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="104">
           <active>false</active>
@@ -4618,7 +4675,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -4627,10 +4684,10 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="83">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
@@ -4747,7 +4804,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120105">
           <active>false</active>
@@ -4771,7 +4828,7 @@ name = 5</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -4918,13 +4975,13 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="144">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="142">
           <active>false</active>
@@ -4951,7 +5008,7 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="132">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
           <active>true</active>
@@ -4972,16 +5029,16 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="96">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="95">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="91">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="89">
           <active>false</active>
@@ -4996,7 +5053,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="72">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="66">
           <active>false</active>
@@ -5023,7 +5080,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="135">
           <active>false</active>
@@ -5035,19 +5092,19 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="117">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="113">
           <active>true</active>
@@ -5080,7 +5137,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="68">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="39">
           <active>true</active>
@@ -5110,7 +5167,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120111">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120108">
           <active>false</active>
@@ -5122,7 +5179,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120109">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120107">
           <active>false</active>
@@ -5152,7 +5209,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -5167,7 +5224,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="121">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="119">
           <active>false</active>
@@ -5182,7 +5239,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="101">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -5194,13 +5251,13 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="88">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
           <active>false</active>
@@ -5209,7 +5266,7 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="81">
           <active>false</active>
@@ -5236,7 +5293,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="50">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="49">
           <active>false</active>
@@ -5245,7 +5302,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="140">
           <active>true</active>
@@ -5356,7 +5413,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120085">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120090">
           <active>false</active>
@@ -5416,10 +5473,10 @@ name = 4</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-continuousReference id="120216">
-          <value>1.0</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -5878,7 +5935,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.048387095</value>
+      <value>0.06451613</value>
     </continuousFilter>
     <combination id="343">
       <name>CH_4</name>
@@ -5914,7 +5971,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="156">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="150">
           <active>false</active>
@@ -5929,13 +5986,13 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="129">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="108">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="103">
           <active>false</active>
@@ -5944,7 +6001,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="99">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="155">
           <active>false</active>
@@ -5959,13 +6016,13 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="43">
           <active>false</active>
@@ -6587,12 +6644,39 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120216">
-          <value>0.0</value>
+          <value>0.031746034</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120135">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120133">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="38">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="36">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="37">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="46">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="53">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="51">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="52">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -6884,7 +6968,7 @@ pitch = 8&apos;</description>
       <zoom>1.0</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.095</value>
+      <value>0.005</value>
       <size>100</size>
       <storage>CalgaryCentralSDAChurchBaldwinD431.memory</storage>
     </memory.memory>
@@ -7054,7 +7138,7 @@ pitch = 8&apos;
       </messages>
       <style>stop</style>
       <zoom>1.0</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>-1</duration>
       <action>0</action>
       <from>0</from>
@@ -7082,7 +7166,7 @@ pitch = 8&apos;
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.35</value>
+      <value>0.15</value>
     </regulator>
     <combination id="408">
       <name>GT_3</name>
@@ -7178,6 +7262,33 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="52">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="51">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="53">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="46">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="37">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="36">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="38">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120133">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120135">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -7408,7 +7519,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120109">
           <active>false</active>
@@ -7420,7 +7531,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="159">
           <active>false</active>
@@ -7447,7 +7558,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
@@ -7474,7 +7585,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="77">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="75">
           <active>false</active>
@@ -7489,7 +7600,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -8708,7 +8819,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="153">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="145">
           <active>false</active>
@@ -9585,13 +9696,13 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="147">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="154">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
           <active>true</active>
@@ -9606,13 +9717,13 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="132">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
           <active>false</active>
@@ -10033,7 +10144,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120077">
           <active>false</active>
@@ -10093,7 +10204,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="83">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="82">
           <active>false</active>
@@ -10123,7 +10234,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120218">
-          <value>0.0</value>
+          <value>0.7032258</value>
         </combination-continuousReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -10132,7 +10243,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="50">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="49">
           <active>false</active>
@@ -10623,13 +10734,13 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="144">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="142">
           <active>false</active>
@@ -10650,22 +10761,22 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="132">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -10686,7 +10797,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="89">
           <active>false</active>
@@ -10701,7 +10812,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="72">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="66">
           <active>false</active>
@@ -10719,7 +10830,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="54">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="55">
           <active>false</active>
@@ -10728,7 +10839,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="135">
           <active>false</active>
@@ -10740,25 +10851,25 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="117">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="113">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="114">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="106">
           <active>false</active>
@@ -10767,13 +10878,13 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="77">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="75">
           <active>false</active>
@@ -10785,10 +10896,10 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="68">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="39">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="40">
           <active>false</active>
@@ -10839,7 +10950,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -10857,7 +10968,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -10872,7 +10983,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="121">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="119">
           <active>false</active>
@@ -10887,7 +10998,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="101">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -10896,22 +11007,22 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="88">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
           <active>false</active>
@@ -10920,7 +11031,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="37">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="36">
           <active>false</active>
@@ -10941,7 +11052,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="50">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="49">
           <active>false</active>
@@ -10953,25 +11064,25 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="140">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="133">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="129">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="108">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="103">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -10980,7 +11091,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="83">
           <active>false</active>
@@ -10989,7 +11100,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
@@ -11004,7 +11115,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -11100,7 +11211,7 @@ name = 8</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120105">
           <active>false</active>
@@ -11124,7 +11235,7 @@ name = 8</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -12493,10 +12604,10 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
@@ -12523,7 +12634,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
@@ -12667,7 +12778,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -12706,13 +12817,13 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="149">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="28">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -12778,10 +12889,10 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="85">
           <active>false</active>
@@ -12835,7 +12946,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="108">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="104">
           <active>false</active>
@@ -12856,13 +12967,13 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="83">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
@@ -12877,7 +12988,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -12997,7 +13108,7 @@ name = 2</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -13268,7 +13379,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120111">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
           <active>false</active>
@@ -13373,7 +13484,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120145">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="39">
           <active>false</active>
@@ -14310,7 +14421,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -14340,7 +14451,7 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -14355,16 +14466,16 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="85">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="81">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="87">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120078">
           <active>false</active>
@@ -14373,12 +14484,39 @@ name = 5</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120216">
-          <value>0.0</value>
+          <value>1.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="52">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="51">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="53">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="46">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="37">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="36">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="38">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120133">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120135">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -14822,7 +14960,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="171">
-          <value>1.0</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-continuousReference id="170">
           <value>0.0</value>
@@ -14834,7 +14972,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="150">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="141">
           <active>false</active>
@@ -14876,7 +15014,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="73">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="70">
           <active>false</active>
@@ -14897,7 +15035,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120218">
-          <value>0.7032258</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -14955,10 +15093,10 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
@@ -14988,19 +15126,19 @@ name = 3</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="132">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -15012,16 +15150,16 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="96">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="95">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="91">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="89">
           <active>false</active>
@@ -15093,7 +15231,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="114">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="106">
           <active>false</active>
@@ -15102,13 +15240,13 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="77">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="75">
           <active>false</active>
@@ -15129,7 +15267,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -15150,19 +15288,19 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120111">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120108">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120106">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120109">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120107">
           <active>false</active>
@@ -15174,7 +15312,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="52">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="51">
           <active>false</active>
@@ -15216,7 +15354,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="110">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="105">
           <active>false</active>
@@ -15240,16 +15378,16 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="87">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="85">
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="81">
           <active>false</active>
@@ -15288,22 +15426,22 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="140">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="133">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="129">
-          <active>true</active>
-        </combination-switchReference>
-        <combination-switchReference id="108">
           <active>false</active>
         </combination-switchReference>
-        <combination-switchReference id="104">
+        <combination-switchReference id="108">
           <active>true</active>
         </combination-switchReference>
+        <combination-switchReference id="104">
+          <active>false</active>
+        </combination-switchReference>
         <combination-switchReference id="103">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
           <active>true</active>
@@ -15318,7 +15456,7 @@ name = 3</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="83">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
@@ -15339,7 +15477,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -15396,7 +15534,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120085">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120090">
           <active>false</active>
@@ -15456,10 +15594,10 @@ name = 3</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-continuousReference id="120216">
-          <value>1.0</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -16737,7 +16875,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="108">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="104">
           <active>false</active>
@@ -16746,7 +16884,7 @@ name = 3</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -18167,7 +18305,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.1</threshold>
-      <value>0.04918033</value>
+      <value>0.032786883</value>
     </continuousFilter>
     <switchFilter id="660">
       <name>so.tremulant</name>
@@ -19674,7 +19812,7 @@ model = ACO 4P/104 7.0 </description>
         <switchFilter-engaged>set 176, set 1, set 0</switchFilter-engaged>
       </messages>
       <zoom>1.0</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>318</duration>
     </switchFilter>
     <switchFilter id="88449">
@@ -19686,7 +19824,7 @@ model = ACO 4P/104 7.0 </description>
       </messages>
       <style>warningNameless</style>
       <zoom>0.4999999</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>70</duration>
     </switchFilter>
     <synchronizer id="88450">
@@ -22450,7 +22588,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -22540,7 +22678,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
@@ -22555,7 +22693,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -22951,7 +23089,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -22975,7 +23113,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="87">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120078">
           <active>false</active>
@@ -22990,6 +23128,33 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="52">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="51">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="53">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="46">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="37">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="36">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="38">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120133">
+          <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="120135">
           <active>false</active>
         </combination-switchReference>
       </references>
@@ -23011,7 +23176,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120077">
           <active>false</active>
@@ -23032,7 +23197,7 @@ name = 6</description>
           <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="161">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="156">
           <active>false</active>
@@ -23062,7 +23227,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -23074,7 +23239,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="80">
           <active>false</active>
@@ -23086,7 +23251,7 @@ name = 6</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="43">
           <active>false</active>
@@ -24375,7 +24540,7 @@ name = .RIGHT
       <zoom>1.0</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.5833333</value>
+      <value>0.083333336</value>
     </regulator>
     <regulator id="120213">
       <name>Pedal Combination Regulator</name>
@@ -24393,7 +24558,7 @@ name = .RIGHT
       <zoom>0.9</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.5833333</value>
+      <value>0.083333336</value>
     </regulator>
     <synchronizing id="120214">
       <name>PEDAL COMBS. W/ GREAT</name>

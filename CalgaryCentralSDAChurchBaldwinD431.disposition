@@ -6081,13 +6081,13 @@ name = 4</description>
       <channels>256</channels>
       <polyphony>1024</polyphony>
       <sampleRate>44100</sampleRate>
-      <interpolate>ORDER_4TH</interpolate>
+      <interpolate>ORDER_7TH</interpolate>
       <audioDriver>portaudio</audioDriver>
       <audioDevice>ASIO4ALL v2</audioDevice>
       <audioBuffers>16</audioBuffers>
       <audioBufferSize>1024</audioBufferSize>
       <cores>16</cores>
-      <gain>0.1</gain>
+      <gain>0.15</gain>
       <overflowPercussion>0.1</overflowPercussion>
       <overflowSustained>0.1</overflowSustained>
       <overflowReleased>0.5</overflowReleased>

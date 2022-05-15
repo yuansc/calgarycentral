@@ -27,18 +27,6 @@
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -80,18 +68,6 @@
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -134,18 +110,6 @@
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -786,18 +750,6 @@ This uses the MIDI modulation code for tremulant depth.</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -862,18 +814,6 @@ pitch = 8&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -932,18 +872,6 @@ name = 9 </description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -1644,18 +1572,6 @@ name = 6</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -1729,18 +1645,6 @@ pitch = III
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -1802,18 +1706,6 @@ pitch = 16&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -1863,18 +1755,6 @@ pitch = 16&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -1946,18 +1826,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -2013,19 +1881,19 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="14">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="148">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="147">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="154">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="151">
           <active>false</active>
@@ -2040,7 +1908,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="138">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
           <active>false</active>
@@ -2055,7 +1923,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -2070,7 +1938,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="91">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="90">
           <active>false</active>
@@ -2889,18 +2757,6 @@ pitch = 4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -2989,18 +2845,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -3042,18 +2886,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -3445,18 +3277,6 @@ name = 4</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -3560,18 +3380,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -3592,25 +3400,26 @@ pitch = 8&apos;</description>
       <name>TRANSPOSER</name>
       <description>TRANSPOSER REGULATOR</description>
       <references>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120203"/>
-        <reference id="120193"/>
-        <reference id="120196"/>
-        <reference id="120195"/>
-        <reference id="120192"/>
-        <reference id="120194"/>
-        <reference id="120197"/>
+        <reference id="120229"/>
+        <reference id="120231"/>
+        <reference id="120248"/>
+        <reference id="120228"/>
+        <reference id="120232"/>
+        <reference id="120225"/>
+        <reference id="120221"/>
+        <reference id="120230"/>
+        <reference id="120223"/>
+        <reference id="120226"/>
+        <reference id="120222"/>
+        <reference id="120224"/>
+        <reference id="120227"/>
       </references>
       <messages/>
       <style>regulator1</style>
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.45833334</value>
+      <value>0.5</value>
     </regulator>
     <switchFilter id="9">
       <name>R33%  CHOIR PLACEMENT</name>
@@ -3668,18 +3477,6 @@ pitch = 4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -3944,18 +3741,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -4036,7 +3821,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.015873017</value>
+      <value>0.0</value>
     </continuousFilter>
     <stop id="108">
       <name>ch.nason flute:8</name>
@@ -4875,18 +4660,6 @@ name = 5</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -4972,16 +4745,16 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120104">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="144">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="142">
           <active>false</active>
@@ -5005,19 +4778,19 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="134">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="132">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="118">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="115">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -5053,7 +4826,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="72">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="66">
           <active>false</active>
@@ -5071,7 +4844,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="54">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="55">
           <active>false</active>
@@ -5080,7 +4853,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="107">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="135">
           <active>false</active>
@@ -5092,7 +4865,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="128">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="127">
           <active>false</active>
@@ -5101,16 +4874,16 @@ name = 4</description>
           <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="122">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="117">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="113">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="114">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="106">
           <active>false</active>
@@ -5119,13 +4892,13 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="45">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="92">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="77">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="75">
           <active>false</active>
@@ -5137,16 +4910,16 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="68">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="39">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="40">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="67">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="64">
           <active>false</active>
@@ -5173,7 +4946,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120110">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120106">
           <active>false</active>
@@ -5209,7 +4982,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="131">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="123">
           <active>false</active>
@@ -5224,7 +4997,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="121">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="119">
           <active>false</active>
@@ -5239,7 +5012,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="101">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="100">
           <active>false</active>
@@ -5248,22 +5021,22 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="93">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="94">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="88">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="86">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="87">
           <active>true</active>
         </combination-switchReference>
-        <combination-switchReference id="85">
+        <combination-switchReference id="87">
           <active>false</active>
+        </combination-switchReference>
+        <combination-switchReference id="85">
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="84">
           <active>false</active>
@@ -5302,7 +5075,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="160">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="140">
           <active>true</active>
@@ -5311,19 +5084,19 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="129">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="108">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="104">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="103">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="102">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="99">
           <active>false</active>
@@ -5356,7 +5129,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="62">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="143">
           <active>false</active>
@@ -5470,7 +5243,7 @@ name = 4</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120218">
-          <value>0.7032258</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-continuousReference id="120216">
           <value>0.0</value>
@@ -5540,18 +5313,6 @@ pitch =  4&apos;</description>
         <reference id="535"/>
         <reference id="29"/>
         <reference id="120033"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -5660,18 +5421,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -5744,18 +5493,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -5817,18 +5554,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -5935,7 +5660,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.048387095</value>
+      <value>0.0</value>
     </continuousFilter>
     <combination id="343">
       <name>CH_4</name>
@@ -6149,18 +5874,6 @@ name = 4</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -6203,18 +5916,6 @@ name = 4</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -6385,18 +6086,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -6528,18 +6217,6 @@ pitch = 2 2/3&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -6644,10 +6321,10 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120216">
-          <value>0.031746034</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120157">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -7071,18 +6748,6 @@ pitch = 4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -7355,18 +7020,6 @@ name = 3</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -7410,18 +7063,6 @@ name = 3</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -8199,6 +7840,9 @@ name = 8  </description>
         <combination-switchReference id="120220">
           <active>false</active>
         </combination-switchReference>
+        <combination-continuousReference id="291">
+          <value>0.5</value>
+        </combination-continuousReference>
       </references>
       <messages>
         <switch-activate>equal 202, equal 67, equal 0</switch-activate>
@@ -8409,18 +8053,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -8510,18 +8142,6 @@ pitch = 16&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -8681,18 +8301,6 @@ name = 3</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -8747,18 +8355,6 @@ name = 3</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -8816,7 +8412,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="153">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="145">
           <active>false</active>
@@ -8963,18 +8559,6 @@ name = 9 </description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9209,18 +8793,6 @@ name = GREAT  UNlSON  OFF</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9260,18 +8832,6 @@ name = GREAT  UNlSON  OFF</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9425,18 +8985,6 @@ name = SWELL  TO  GREAT  4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9491,18 +9039,6 @@ pitch = 8&apos;</description>
         <reference id="11"/>
         <reference id="29"/>
         <reference id="120033"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9536,18 +9072,6 @@ pitch = 8&apos;</description>
         <reference id="535"/>
         <reference id="29"/>
         <reference id="120033"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9593,15 +9117,19 @@ pitch =  8&apos;
       <description></description>
       <references>
         <reference id="193"/>
-        <reference id="120076"/>
-        <reference id="120134"/>
-        <reference id="43"/>
-        <reference id="41"/>
-        <reference id="42"/>
-        <reference id="160"/>
-        <reference id="50"/>
-        <reference id="48"/>
-        <reference id="49"/>
+        <reference id="120277"/>
+        <reference id="120278"/>
+        <reference id="120279"/>
+        <reference id="120280"/>
+        <reference id="120281"/>
+        <reference id="120282"/>
+        <reference id="120283"/>
+        <reference id="120284"/>
+        <reference id="120285"/>
+        <reference id="120286"/>
+        <reference id="120287"/>
+        <reference id="120288"/>
+        <reference id="120289"/>
       </references>
       <messages>
         <keyboard-pressKey>equal 155, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
@@ -9643,18 +9171,6 @@ pitch =  8&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9687,7 +9203,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="14">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="148">
           <active>false</active>
@@ -9699,10 +9215,10 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="152">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="151">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="79">
           <active>false</active>
@@ -9729,7 +9245,7 @@ name = 1</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="112">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="111">
           <active>false</active>
@@ -9817,18 +9333,6 @@ name = 1</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9868,18 +9372,6 @@ name = 1</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -9921,18 +9413,6 @@ name = 1</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -10027,18 +9507,6 @@ pitch = 16&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -10080,11 +9548,19 @@ pitch = 16&apos;</description>
       <description>SWELL KEYBOARD</description>
       <references>
         <reference id="193"/>
-        <reference id="120144"/>
-        <reference id="57"/>
-        <reference id="47"/>
-        <reference id="56"/>
-        <reference id="120105"/>
+        <reference id="120264"/>
+        <reference id="120265"/>
+        <reference id="120266"/>
+        <reference id="120267"/>
+        <reference id="120268"/>
+        <reference id="120269"/>
+        <reference id="120270"/>
+        <reference id="120271"/>
+        <reference id="120272"/>
+        <reference id="120273"/>
+        <reference id="120274"/>
+        <reference id="120275"/>
+        <reference id="120276"/>
       </references>
       <messages>
         <keyboard-pressKey>equal 159, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
@@ -10141,10 +9617,10 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120073">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120077">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="120075">
           <active>false</active>
@@ -10168,7 +9644,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="150">
-          <active>false</active>
+          <active>true</active>
         </combination-switchReference>
         <combination-switchReference id="141">
           <active>false</active>
@@ -10201,7 +9677,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="83">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="82">
           <active>false</active>
@@ -10231,7 +9707,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-continuousReference id="120218">
-          <value>0.7032258</value>
+          <value>0.0</value>
         </combination-continuousReference>
         <combination-switchReference id="120220">
           <active>false</active>
@@ -10240,7 +9716,7 @@ name = 2</description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="50">
-          <active>true</active>
+          <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="49">
           <active>false</active>
@@ -10289,18 +9765,6 @@ name = 2</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -10342,18 +9806,6 @@ name = 2</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -10419,18 +9871,6 @@ pitch = III</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -10472,18 +9912,6 @@ pitch = III</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -10651,18 +10079,6 @@ pitch = 16&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -12536,18 +11952,6 @@ A pioneer in the field of amateur virtual organs.</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -13188,18 +12592,6 @@ pitch = 4&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -13594,18 +12986,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -13713,18 +13093,6 @@ pitch =  8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -13804,18 +13172,6 @@ name = SWELL  TO  CHOIR  4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -13910,18 +13266,6 @@ pitch = 4&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -13964,18 +13308,6 @@ pitch = 4&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14090,18 +13422,6 @@ pitch = 4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14215,17 +13535,19 @@ pitch = 2&apos;</description>
       <description></description>
       <references>
         <reference id="193"/>
-        <reference id="46"/>
-        <reference id="120078"/>
-        <reference id="120142"/>
-        <reference id="53"/>
-        <reference id="52"/>
-        <reference id="51"/>
-        <reference id="38"/>
-        <reference id="37"/>
-        <reference id="36"/>
-        <reference id="120133"/>
-        <reference id="120135"/>
+        <reference id="120290"/>
+        <reference id="120291"/>
+        <reference id="120292"/>
+        <reference id="120293"/>
+        <reference id="120294"/>
+        <reference id="120295"/>
+        <reference id="120296"/>
+        <reference id="120297"/>
+        <reference id="120298"/>
+        <reference id="120299"/>
+        <reference id="120300"/>
+        <reference id="120301"/>
+        <reference id="120302"/>
       </references>
       <messages>
         <keyboard-pressKey>equal 158, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
@@ -14257,18 +13579,6 @@ pitch = 2&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14311,18 +13621,6 @@ pitch = 2&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14364,18 +13662,6 @@ pitch = 2&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -14636,18 +13922,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14687,18 +13961,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14768,18 +14030,6 @@ pitch = 1 3/5&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -14822,18 +14072,6 @@ pitch = 1 3/5&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -14904,18 +14142,6 @@ pitch = IV</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -15675,18 +14901,6 @@ pitch = 8&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -15838,18 +15052,6 @@ pitch = 4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -15966,18 +15168,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -16038,18 +15228,6 @@ function =  SPEED</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -16071,7 +15249,19 @@ function =  SPEED</description>
       <description></description>
       <references>
         <reference id="193"/>
-        <reference id="120032"/>
+        <reference id="120233"/>
+        <reference id="120238"/>
+        <reference id="120239"/>
+        <reference id="120240"/>
+        <reference id="120241"/>
+        <reference id="120242"/>
+        <reference id="120243"/>
+        <reference id="120244"/>
+        <reference id="120245"/>
+        <reference id="120246"/>
+        <reference id="120247"/>
+        <reference id="120249"/>
+        <reference id="120250"/>
       </references>
       <messages>
         <keyboard-pressKey>equal 156, lessEqual 67 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
@@ -16147,18 +15337,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -16202,18 +15380,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -16261,18 +15427,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -16574,18 +15728,6 @@ pitch = 4&apos;
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -16791,18 +15933,6 @@ name = CHOIR  TO  GREAT  8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120216"/>
       </references>
       <messages>
@@ -16999,18 +16129,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -17052,18 +16170,6 @@ pitch = 8&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -17169,18 +16275,6 @@ pitch = III</description>
         <reference id="88445"/>
         <reference id="88449"/>
         <reference id="120065"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -17220,18 +16314,6 @@ pitch = III</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="120218"/>
       </references>
       <messages>
@@ -17273,18 +16355,6 @@ pitch = III</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -17913,8 +16983,19 @@ name = Y</description>
       <name>.....SOLO</name>
       <description></description>
       <references>
-        <reference id="120120"/>
-        <reference id="120097"/>
+        <reference id="120251"/>
+        <reference id="120252"/>
+        <reference id="120253"/>
+        <reference id="120254"/>
+        <reference id="120255"/>
+        <reference id="120256"/>
+        <reference id="120257"/>
+        <reference id="120258"/>
+        <reference id="120259"/>
+        <reference id="120260"/>
+        <reference id="120261"/>
+        <reference id="120262"/>
+        <reference id="120263"/>
       </references>
       <messages>
         <keyboard-pressKey>equal 159, lessEqual 96 | greaterEqual 36 | get pitch, greater 0 | get velocity</keyboard-pressKey>
@@ -18241,18 +17322,84 @@ name = Y</description>
         <reference id="440"/>
         <reference id="487"/>
         <reference id="291"/>
-        <reference id="120193"/>
-        <reference id="120196"/>
-        <reference id="120195"/>
-        <reference id="120192"/>
-        <reference id="120194"/>
-        <reference id="120197"/>
-        <reference id="120201"/>
-        <reference id="120200"/>
-        <reference id="120198"/>
-        <reference id="120199"/>
-        <reference id="120202"/>
-        <reference id="120203"/>
+        <reference id="120221"/>
+        <reference id="120230"/>
+        <reference id="120223"/>
+        <reference id="120226"/>
+        <reference id="120222"/>
+        <reference id="120224"/>
+        <reference id="120227"/>
+        <reference id="120225"/>
+        <reference id="120232"/>
+        <reference id="120228"/>
+        <reference id="120231"/>
+        <reference id="120229"/>
+        <reference id="120233"/>
+        <reference id="120238"/>
+        <reference id="120239"/>
+        <reference id="120240"/>
+        <reference id="120241"/>
+        <reference id="120242"/>
+        <reference id="120243"/>
+        <reference id="120244"/>
+        <reference id="120245"/>
+        <reference id="120246"/>
+        <reference id="120248"/>
+        <reference id="120247"/>
+        <reference id="120249"/>
+        <reference id="120250"/>
+        <reference id="120251"/>
+        <reference id="120252"/>
+        <reference id="120253"/>
+        <reference id="120254"/>
+        <reference id="120255"/>
+        <reference id="120256"/>
+        <reference id="120257"/>
+        <reference id="120258"/>
+        <reference id="120259"/>
+        <reference id="120260"/>
+        <reference id="120261"/>
+        <reference id="120262"/>
+        <reference id="120263"/>
+        <reference id="120264"/>
+        <reference id="120265"/>
+        <reference id="120266"/>
+        <reference id="120267"/>
+        <reference id="120268"/>
+        <reference id="120269"/>
+        <reference id="120270"/>
+        <reference id="120271"/>
+        <reference id="120272"/>
+        <reference id="120273"/>
+        <reference id="120274"/>
+        <reference id="120275"/>
+        <reference id="120276"/>
+        <reference id="120277"/>
+        <reference id="120278"/>
+        <reference id="120279"/>
+        <reference id="120280"/>
+        <reference id="120281"/>
+        <reference id="120282"/>
+        <reference id="120283"/>
+        <reference id="120284"/>
+        <reference id="120285"/>
+        <reference id="120286"/>
+        <reference id="120287"/>
+        <reference id="120288"/>
+        <reference id="120289"/>
+        <reference id="120290"/>
+        <reference id="120291"/>
+        <reference id="120292"/>
+        <reference id="120293"/>
+        <reference id="120294"/>
+        <reference id="120295"/>
+        <reference id="120296"/>
+        <reference id="120297"/>
+        <reference id="120298"/>
+        <reference id="120299"/>
+        <reference id="120300"/>
+        <reference id="120301"/>
+        <reference id="120302"/>
       </references>
       <messages/>
     </group>
@@ -18302,7 +17449,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.1</threshold>
-      <value>0.032786883</value>
+      <value>0.0</value>
     </continuousFilter>
     <switchFilter id="660">
       <name>so.tremulant</name>
@@ -18409,7 +17556,7 @@ name = 2</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <combination id="663">
@@ -18496,7 +17643,7 @@ name = 4</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <combination id="664">
@@ -18583,7 +17730,7 @@ name = 3</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <combination id="665">
@@ -18670,7 +17817,7 @@ name = 5</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <combination id="666">
@@ -18757,7 +17904,7 @@ name = 1</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <group id="668">
@@ -19809,7 +18956,7 @@ model = ACO 4P/104 7.0 </description>
         <switchFilter-engaged>set 176, set 1, set 0</switchFilter-engaged>
       </messages>
       <zoom>1.0</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>318</duration>
     </switchFilter>
     <switchFilter id="88449">
@@ -19821,7 +18968,7 @@ model = ACO 4P/104 7.0 </description>
       </messages>
       <style>warningNameless</style>
       <zoom>0.4999999</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>70</duration>
     </switchFilter>
     <synchronizer id="88450">
@@ -21106,18 +20253,6 @@ pitch = 5 1/3&apos;</description>
         <reference id="535"/>
         <reference id="532"/>
         <reference id="531"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21157,18 +20292,6 @@ pitch = 5 1/3&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21263,6 +20386,8 @@ pitch = 4&apos;</description>
         <reference id="120099"/>
         <reference id="69"/>
         <reference id="120143"/>
+        <reference id="120097"/>
+        <reference id="120147"/>
       </references>
       <messages/>
       <style>coupler</style>
@@ -21300,18 +20425,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21352,18 +20465,6 @@ pitch = 4&apos;</description>
         <reference id="532"/>
         <reference id="531"/>
         <reference id="120096"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21405,18 +20506,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21458,18 +20547,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21511,18 +20588,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21564,18 +20629,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21617,18 +20670,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21670,18 +20711,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21723,18 +20752,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21775,18 +20792,6 @@ pitch = 4&apos;</description>
         <reference id="532"/>
         <reference id="531"/>
         <reference id="120096"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21828,18 +20833,6 @@ pitch = 4&apos;</description>
         <reference id="531"/>
         <reference id="120096"/>
         <reference id="659"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
       </references>
       <messages>
         <rank-engaged>set 176, set 121, </rank-engaged>
@@ -21967,18 +20960,6 @@ pitch = 4&apos;</description>
         <reference id="535"/>
         <reference id="532"/>
         <reference id="531"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="2"/>
       </references>
       <messages>
@@ -22019,18 +21000,6 @@ pitch = 4&apos;</description>
         <reference id="535"/>
         <reference id="532"/>
         <reference id="531"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="2"/>
       </references>
       <messages>
@@ -22071,18 +21040,6 @@ pitch = 4&apos;</description>
         <reference id="88441"/>
         <reference id="88445"/>
         <reference id="88449"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="2"/>
       </references>
       <messages>
@@ -22125,18 +21082,6 @@ pitch = 4&apos;</description>
         <reference id="535"/>
         <reference id="532"/>
         <reference id="531"/>
-        <reference id="120203"/>
-        <reference id="120202"/>
-        <reference id="120199"/>
-        <reference id="120198"/>
-        <reference id="120200"/>
-        <reference id="120201"/>
-        <reference id="120197"/>
-        <reference id="120194"/>
-        <reference id="120192"/>
-        <reference id="120195"/>
-        <reference id="120196"/>
-        <reference id="120193"/>
         <reference id="2"/>
       </references>
       <messages>
@@ -22433,7 +21378,7 @@ name = 6</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>true</active>
+      <active>false</active>
       <duration>0</duration>
     </combination>
     <label id="120155">
@@ -23297,162 +22242,6 @@ name = 6</description>
       <style>label</style>
       <zoom>0.5999999</zoom>
     </label>
-    <switchFilter id="120192">
-      <name>+4  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 68</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120193">
-      <name>+1  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 65</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120194">
-      <name>+5  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 69</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120195">
-      <name>+3  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 67</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120196">
-      <name>+2  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 66</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120197">
-      <name>+6  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 70</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120198">
-      <name>-3  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 61</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120199">
-      <name>-4  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 60</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120200">
-      <name>-2  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 62</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120201">
-      <name>-1  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 63</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120202">
-      <name>-5  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 59</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>false</active>
-      <duration>-1</duration>
-    </switchFilter>
-    <switchFilter id="120203">
-      <name>0  Transpose</name>
-      <description></description>
-      <references/>
-      <messages>
-        <switchFilter-engaged>set 176, set 101, set 0</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 100, set 2</switchFilter-engaged>
-        <switchFilter-engaged>set 176, set 6, set 64</switchFilter-engaged>
-      </messages>
-      <zoom>1.0</zoom>
-      <active>true</active>
-      <duration>-1</duration>
-    </switchFilter>
     <coupler id="120204">
       <name>Chorus Reeds Coupler (BO)</name>
       <description></description>
@@ -24537,7 +23326,7 @@ name = .RIGHT
       <zoom>1.0</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.083333336</value>
+      <value>0.9166667</value>
     </regulator>
     <regulator id="120213">
       <name>Pedal Combination Regulator</name>
@@ -24555,7 +23344,7 @@ name = .RIGHT
       <zoom>0.9</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.083333336</value>
+      <value>0.9166667</value>
     </regulator>
     <synchronizing id="120214">
       <name>PEDAL COMBS. W/ GREAT</name>
@@ -24574,18 +23363,6 @@ name = .RIGHT
       <name>BOM_Trompet Harmonique 8&apos;</name>
       <description></description>
       <references>
-        <reference id="120193"/>
-        <reference id="120196"/>
-        <reference id="120195"/>
-        <reference id="120192"/>
-        <reference id="120194"/>
-        <reference id="120197"/>
-        <reference id="120201"/>
-        <reference id="120200"/>
-        <reference id="120198"/>
-        <reference id="120199"/>
-        <reference id="120202"/>
-        <reference id="120203"/>
         <reference id="88449"/>
         <reference id="88445"/>
         <reference id="88441"/>
@@ -24896,6 +23673,1526 @@ function =  VOLUME</description>
       <from>0</from>
       <to>127</to>
       <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <activator id="120221">
+      <name>0</name>
+      <description></description>
+      <references>
+        <reference id="120233"/>
+        <reference id="120251"/>
+        <reference id="120264"/>
+        <reference id="120277"/>
+        <reference id="120290"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>true</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120222">
+      <name>+4</name>
+      <description></description>
+      <references>
+        <reference id="120241"/>
+        <reference id="120255"/>
+        <reference id="120268"/>
+        <reference id="120281"/>
+        <reference id="120294"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120223">
+      <name>+2</name>
+      <description></description>
+      <references>
+        <reference id="120239"/>
+        <reference id="120253"/>
+        <reference id="120266"/>
+        <reference id="120279"/>
+        <reference id="120292"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120224">
+      <name>+5</name>
+      <description></description>
+      <references>
+        <reference id="120242"/>
+        <reference id="120256"/>
+        <reference id="120269"/>
+        <reference id="120282"/>
+        <reference id="120295"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120225">
+      <name>-1</name>
+      <description></description>
+      <references>
+        <reference id="120244"/>
+        <reference id="120258"/>
+        <reference id="120271"/>
+        <reference id="120284"/>
+        <reference id="120297"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120226">
+      <name>+3</name>
+      <description></description>
+      <references>
+        <reference id="120240"/>
+        <reference id="120254"/>
+        <reference id="120267"/>
+        <reference id="120280"/>
+        <reference id="120293"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120227">
+      <name>+6</name>
+      <description></description>
+      <references>
+        <reference id="120243"/>
+        <reference id="120257"/>
+        <reference id="120270"/>
+        <reference id="120283"/>
+        <reference id="120296"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120228">
+      <name>-3</name>
+      <description></description>
+      <references>
+        <reference id="120246"/>
+        <reference id="120260"/>
+        <reference id="120273"/>
+        <reference id="120286"/>
+        <reference id="120299"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120229">
+      <name>-6</name>
+      <description></description>
+      <references>
+        <reference id="120250"/>
+        <reference id="120263"/>
+        <reference id="120276"/>
+        <reference id="120289"/>
+        <reference id="120302"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120230">
+      <name>+1</name>
+      <description></description>
+      <references>
+        <reference id="120238"/>
+        <reference id="120252"/>
+        <reference id="120265"/>
+        <reference id="120278"/>
+        <reference id="120291"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120231">
+      <name>-5</name>
+      <description></description>
+      <references>
+        <reference id="120249"/>
+        <reference id="120262"/>
+        <reference id="120275"/>
+        <reference id="120288"/>
+        <reference id="120301"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <activator id="120232">
+      <name>-2</name>
+      <description></description>
+      <references>
+        <reference id="120245"/>
+        <reference id="120259"/>
+        <reference id="120285"/>
+        <reference id="120298"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <coupler id="120233">
+      <name>PD. TR 0</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120238">
+      <name>PD. TR +1</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120239">
+      <name>PD. TR +2</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120240">
+      <name>PD. TR +3</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120241">
+      <name>PD. TR +4</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120242">
+      <name>PD. TR +5</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120243">
+      <name>PD. TR +6</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120244">
+      <name>PD. TR -1</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120245">
+      <name>PD. TR -2</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120246">
+      <name>PD. TR -3</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120247">
+      <name>PD. TR -4</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <activator id="120248">
+      <name>-4</name>
+      <description></description>
+      <references>
+        <reference id="120247"/>
+        <reference id="120261"/>
+        <reference id="120274"/>
+        <reference id="120287"/>
+        <reference id="120300"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+    </activator>
+    <coupler id="120249">
+      <name>PD. TR -5</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120250">
+      <name>PD. TR -6</name>
+      <description></description>
+      <references>
+        <reference id="120032"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120251">
+      <name>SO. TR 0</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120252">
+      <name>SO. TR +1</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120253">
+      <name>SO. TR +2</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120254">
+      <name>SO. TR +3</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120255">
+      <name>SO. TR +4</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120256">
+      <name>SO. TR +5</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120257">
+      <name>SO. TR +6</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120258">
+      <name>SO. TR -1</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120259">
+      <name>SO. TR -2</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120260">
+      <name>SO. TR -3</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120261">
+      <name>SO. TR -4</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120262">
+      <name>SO. TR -5</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120263">
+      <name>SO. TR -6</name>
+      <description></description>
+      <references>
+        <reference id="120120"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120264">
+      <name>SW. TR 0</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120265">
+      <name>SW. TR +1</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120266">
+      <name>SW. TR +2</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120267">
+      <name>SW. TR +3</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120268">
+      <name>SW. TR +4</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120269">
+      <name>SW. TR +5</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120270">
+      <name>SW. TR +6</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120271">
+      <name>SW. TR -1</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120272">
+      <name>SW. TR -2</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120273">
+      <name>SW. TR -3</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120274">
+      <name>SW. TR -4</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120275">
+      <name>SW. TR -5</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120276">
+      <name>SW. TR -6</name>
+      <description></description>
+      <references>
+        <reference id="120105"/>
+        <reference id="56"/>
+        <reference id="57"/>
+        <reference id="47"/>
+        <reference id="120144"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120277">
+      <name>CH. TR 0</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120278">
+      <name>CH. TR +1</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120279">
+      <name>CH. TR +2</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120280">
+      <name>CH. TR +3</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120281">
+      <name>CH. TR +4</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120282">
+      <name>CH. TR +5</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120283">
+      <name>CH. TR +6</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120284">
+      <name>CH. TR -1</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120285">
+      <name>CH. TR -2</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120286">
+      <name>CH. TR -3</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120287">
+      <name>CH. TR -4</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120288">
+      <name>CH. TR -5</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120289">
+      <name>CH. TR -6</name>
+      <description></description>
+      <references>
+        <reference id="120076"/>
+        <reference id="43"/>
+        <reference id="41"/>
+        <reference id="42"/>
+        <reference id="48"/>
+        <reference id="49"/>
+        <reference id="50"/>
+        <reference id="160"/>
+        <reference id="120134"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120290">
+      <name>GT. TR 0</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>0</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120291">
+      <name>GT. TR +1</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120292">
+      <name>GT. TR +2</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120293">
+      <name>GT. TR +3</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120294">
+      <name>GT. TR +4</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120295">
+      <name>GT. TR +5</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120296">
+      <name>GT. TR +6</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>6</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120297">
+      <name>GT. TR -1</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-1</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120298">
+      <name>GT. TR -2</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-2</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120299">
+      <name>GT. TR -3</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-3</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120300">
+      <name>GT. TR -4</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-4</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120301">
+      <name>GT. TR -5</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-5</transpose>
+      <velocity>0</velocity>
+    </coupler>
+    <coupler id="120302">
+      <name>GT. TR -6</name>
+      <description></description>
+      <references>
+        <reference id="120078"/>
+        <reference id="120135"/>
+        <reference id="120133"/>
+        <reference id="38"/>
+        <reference id="36"/>
+        <reference id="37"/>
+        <reference id="46"/>
+        <reference id="53"/>
+        <reference id="51"/>
+        <reference id="52"/>
+        <reference id="120142"/>
+      </references>
+      <messages/>
+      <zoom>1.0</zoom>
+      <active>false</active>
+      <duration>-1</duration>
+      <action>0</action>
+      <from>0</from>
+      <to>127</to>
+      <transpose>-6</transpose>
       <velocity>0</velocity>
     </coupler>
   </elements>

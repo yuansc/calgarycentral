@@ -3821,7 +3821,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.0</value>
+      <value>0.031746034</value>
     </continuousFilter>
     <stop id="108">
       <name>ch.nason flute:8</name>
@@ -5660,7 +5660,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.0</value>
+      <value>0.048387095</value>
     </continuousFilter>
     <combination id="343">
       <name>CH_4</name>
@@ -6831,7 +6831,7 @@ pitch = 8&apos;
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.0</threshold>
-      <value>0.15</value>
+      <value>0.85</value>
     </regulator>
     <combination id="408">
       <name>GT_3</name>
@@ -7823,9 +7823,6 @@ name = 8  </description>
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="120148">
-          <active>false</active>
-        </combination-switchReference>
-        <combination-switchReference id="445">
           <active>false</active>
         </combination-switchReference>
         <combination-switchReference id="158">
@@ -8943,6 +8940,7 @@ name = SWELL  TO  GREAT  4&apos;</description>
         <reference id="120160"/>
         <reference id="120152"/>
         <reference id="120161"/>
+        <reference id="423"/>
       </references>
       <messages>
         <switch-activate>equal 202, equal 66, equal 0</switch-activate>
@@ -17449,7 +17447,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.1</threshold>
-      <value>0.0</value>
+      <value>0.114754096</value>
     </continuousFilter>
     <switchFilter id="660">
       <name>so.tremulant</name>
@@ -21378,7 +21376,7 @@ name = 6</description>
       </messages>
       <style>piston</style>
       <zoom>0.79999995</zoom>
-      <active>false</active>
+      <active>true</active>
       <duration>0</duration>
     </combination>
     <label id="120155">

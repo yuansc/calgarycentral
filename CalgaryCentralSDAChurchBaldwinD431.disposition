@@ -5660,7 +5660,7 @@ This uses all MIDI codes for swell volume adjustment, including workaround codes
       <zoom>0.65</zoom>
       <duration>-1</duration>
       <threshold>0.05</threshold>
-      <value>0.0</value>
+      <value>1.0</value>
     </continuousFilter>
     <combination id="343">
       <name>CH_4</name>
@@ -5802,7 +5802,7 @@ name = 4</description>
         <reference id="120056"/>
       </references>
       <messages/>
-      <soundfont>C:/BaldwinD431/calgarycentral/ACO_7.0.sf2</soundfont>
+      <soundfont>./ACO_7.0-mod.sf2</soundfont>
       <channels>256</channels>
       <polyphony>1024</polyphony>
       <sampleRate>44100</sampleRate>
